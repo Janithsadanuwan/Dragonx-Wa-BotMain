@@ -17,7 +17,7 @@ if (fs.existsSync('./language/' + Config.LANG + '.json')) {
 }
 
 function getString(file) {
-    return json['STRINGS'][file];
+    return json['STRINGS'][file]
 }
 
 module.exports = {
