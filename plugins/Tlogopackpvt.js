@@ -1,4 +1,4 @@
-/*පකා ආවෙ මේක උස්සන්නද කැරියා හුකෝගන්නෙනැට්ගුව පල වද කැරියා අහුව්නොත් අම්මට හුකෝනවා දැනගන්
+/*JG
 */
 
 
@@ -17,7 +17,7 @@ if (Config.WORKTYPE == 'private') {
         var ttinullimage = await axios.get(`https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔══════════════════════
-║❌ 🍁*REX LOGO PACK 1*🍁 ❌
+║❌ 🍁*Dragon x LOGO PACK 1*🍁 ❌
 ╠══════════════════════
 ║
 ║   `+Config.CAPTION+`

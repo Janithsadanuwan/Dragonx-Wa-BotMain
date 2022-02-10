@@ -15,7 +15,7 @@ if (config.WORKTYPE == 'public') {
   
 
 
-Trex.addrex({pattern: 'alpha', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
+Trex.addrex({pattern: 'Dragon X', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
   if (config.BTN == 'txt') {
     
@@ -48,7 +48,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `
  
  ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ ⎝🛡️ Dragon X 🛡️⎠
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -65,7 +65,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🖲️  BOT  🖲️ 
  │        ──────────
  │
- │▷ .alpha
+ │▷ .Dragon X
  │▷ .alive
  │▷ .admin [ for owner ]
  │▷ .version
@@ -167,7 +167,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      Alpha BOT
+ │      Dragon X BOT
  ╰────────────────
  ╭────────────────
  │   🖲️ Search 🖲️ 
@@ -232,7 +232,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
           🖲️ POWERD BY 🖲️
-          ⎝🛡️ ALPHA 🛡️⎠
+          ⎝🛡️ Dragon X 🛡️⎠
      🖲️       Achiya        🖲️
 
  
@@ -242,7 +242,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 }));
 
-Trex.addrex({pattern: 'alpha', fromMe: true, desc: 'it send bot menu'}, (async (message, match) => {
+Trex.addrex({pattern: 'Dragon X', fromMe: true, desc: 'it send bot menu'}, (async (message, match) => {
 
   if (config.BTN == 'txt') {
     
@@ -274,7 +274,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `
   ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ ⎝🛡️ Dragon X 🛡️⎠
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -291,7 +291,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🖲️  BOT  🖲️ 
  │        ──────────
  │
- │▷ .alpha
+ │▷ .Dragon X
  │▷ .alive
  │▷ .admin [ for owner ]
  │▷ .version
@@ -393,7 +393,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      Alpha BOT
+ │      Dragon X BOT
  ╰────────────────
  ╭────────────────
  │   🖲️ Search 🖲️ 
@@ -458,7 +458,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
           🖲️ POWERD BY 🖲️
-          ⎝🛡️ ALPHA 🛡️⎠
+          ⎝🛡️ Dragon X 🛡️⎠
      🖲️       Achiya        🖲️
  
  
@@ -475,7 +475,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 else if (config.WORKTYPE == 'private' ) {
   
   
-    Trex.addrex({pattern: 'alpha', fromMe: true, desc: 'it send bot menu'}, (async (message, match) => {
+    Trex.addrex({pattern: 'Dragon X', fromMe: true, desc: 'it send bot menu'}, (async (message, match) => {
       
     if (config.BTN == 'txt') {
     var r_text = new Array ();
@@ -503,7 +503,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `
   ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ ⎝🛡️ Dragon X 🛡️⎠
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -520,7 +520,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🖲️  BOT  🖲️ 
  │        ──────────
  │
- │▷ .alpha
+ │▷ .Dragon X
  │▷ .alive
  │▷ .admin [ for owner ]
  │▷ .version
@@ -622,7 +622,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      Alpha BOT
+ │      Dragon X BOT
  ╰────────────────
  ╭────────────────
  │   🖲️ Search 🖲️ 
@@ -687,8 +687,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
           🖲️ POWERD BY 🖲️
-          ⎝🛡️ ALPHA 🛡️⎠
-     🖲️       Achiya        🖲️
+          ⎝🛡️ Dragon X 🛡️⎠
+     🖲️       Janith sadanuwan       🖲️
  
  
 `,quoted: message.data}) 
