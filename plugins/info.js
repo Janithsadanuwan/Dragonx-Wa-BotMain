@@ -1,5 +1,3 @@
-
-
 const Trex = require('../events');
 const { MessageType, Mimetype, GroupSettingChange, MessageOptions } = require('@adiwajshing/baileys');
 const fs = require('fs');
