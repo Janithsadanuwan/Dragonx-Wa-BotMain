@@ -1,8 +1,7 @@
-/* Copyright (C) 2021 T REX
+/* Copyright (C) 2022 🛡ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ 🛡աɦ𝐚𝐭𝐬𝐚𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-HIRUWA - TREX
-උස්සන්නද ආවෙ අම්මට හුකෝගන්නෙ නැතුව පල පොන්නයා 😂👿
+Dɾαɠσɳx Dҽʋ Tҽαɱ 🇱🇰 
 */
 
 const Trex = require('../events');
