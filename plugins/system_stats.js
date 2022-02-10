@@ -41,7 +41,7 @@ const btn = {
     }
     else {
         const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🙈 I AM FINE 😜'}, type: 1},//jakakkak
+  {buttonId: 'MENU', buttonText: {displayText: '🤭 I AM FINE 🤟'}, type: 1},//jakakkak
   {buttonId: 'MNU', buttonText: {displayText: '🥺 I  AM SAD 😥'}, type: 1},
   ]
 const btn = {
@@ -94,7 +94,7 @@ else if (Config.WORKTYPE == 'public') {
         if (Config.ALIVEMSG == 'default') {
             
             const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🙈 I AM FINE 😜'}, type: 1},//jakakkak
+  {buttonId: 'MENU', buttonText: {displayText: '🤭 I AM FINE 🤟'}, type: 1},//jakakkak
   {buttonId: 'MNU', buttonText: {displayText: '🥺 I  AM SAD 😥'}, type: 1},
  ]
 
@@ -123,7 +123,7 @@ const btn = {
     }
     else {
         const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🙈 I AM FINE 😜'}, type: 1},//jakakkak
+  {buttonId: 'MENU', buttonText: {displayText: '🤭 I AM FINE 🤟'}, type: 1},//jakakkak
   {buttonId: 'MEN', buttonText: {displayText: '🥺 I  AM SAD 😥'}, type: 1},
   ]
 const btn = {
