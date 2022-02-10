@@ -201,10 +201,10 @@
             "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Search Wikipedia.",
             "IMG_DESC": "Downloading google images.",
-            "IMG": "🖲️ ➢ ⎝🛡️ ALPHA 🛡️⎠ Uploading images ```{}``` numbers ```{} ```...",
+            "IMG": "🖲️ ➢ ⎝🛡️ Dragon X 🛡️⎠ Uploading images ```{}``` numbers ```{} ```...",
             "CURRENCY_DESC": "To convert currencies.",
             "EFFECT_DESC": "A set of commands for converting text to effect images.",
-            "IG_DESC": "🖲️ ➢ ⎝🛡️ ALPHA 🛡️⎠ Download instagram videos.",
+            "IG_DESC": "🖲️ ➢ ⎝🛡️ Dragon X 🛡️⎠ Download instagram videos.",
             "NEED_WORD": "Please enter a valid link!",
             "QUOTE_DESC": "It Sends Random Quote",
             "NEED_LOCATIONA": "*Invalid Request*",
@@ -217,11 +217,11 @@
             "WAME_DESC": "Get a link to the user chat.",
             "WAME": "```Chat link from```@{}: https://wa.me/{}",
             "NEED_UWONG": "*Give me a user!*",
-            "FBDESC": "🖲️ ➢ ⎝🛡️ ALPHA 🛡️⎠ Download Facebook videos.",
+            "FBDESC": "🖲️ ➢ ⎝🛡️ Dragon X 🛡️⎠ Download Facebook videos.",
             "NOT_FOUNDFB": "Can't find the video",
             "CAPTION": "Caption",
-            "DL_VID": "🖲️ ➢ ❰⎝🛡️ ALPHA 🛡️⎠ Downloading your video...",
-            "UP_VID": "🖲️ ➢ ⎝🛡️ ALPHA 🛡️⎠Uploading your video...",
+            "DL_VID": "🖲️ ➢ ❰⎝🛡️ Dragon X 🛡️⎠ Downloading your video...",
+            "UP_VID": "🖲️ ➢ ⎝🛡️ Dragon X 🛡️⎠Uploading your video...",
             "ERR_VID": "Please enter a valid link!"
         },
         "sticker": {
@@ -245,14 +245,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Check for updates.",
-            "UPDATE": "*⎝🛡️ ALPHA 🛡️⎠ is completely updated!✅*",
-            "NEW_UPDATE": "*Your bot have some updates!*\nType *.upalpha*\n\nChanges:\n```",
+            "UPDATE": "*⎝🛡️ Dragon X 🛡️⎠ is completely updated!✅*",
+            "NEW_UPDATE": "*Your bot have some updates!*\nType *.upDragon X*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "Updating your bot",
             "UPDATING": "_Updating...🖲️ ➢_",
             "INVALID_HEROKU": "*❌ Your HEROKU_API_KEY wrong! Visit https://dashboard.heroku.com/account . Scroll down to API key. Click reveal buttong. Copy that API key and paste it in HEROKU_API_KEY config vars.*",
             "UPDATED": "*✅ Successfully updated!*",
             "UPDATED_LOCAL": "*✅ Successfully updated!*",
-            "AFTER_UPDATE": "*💬 ⎝🛡️ ALPHA 🛡️⎠ automatically restarting!*",
+            "AFTER_UPDATE": "*💬 ⎝🛡️ Dragon X 🛡️⎠ automatically restarting!*",
             "VERIFY_DESC": "Verify your bot officially.",
             "VERIFY": "*Your bot is verified!✅*",
             "VERIFIED": "*✅ Successfully verified!*",
@@ -488,8 +488,8 @@
         "spotify": {
             "SPO_DESC": "Download spotify songs.",
             "SPO_NEED": "Please enter a link!",
-            "SPO_DOWN": "🖲️ ➢ ⎝🛡️ ALPHA 🛡️⎠ Downloading your song...",
-            "SPO_UP": "🖲️ ➢ ⎝🛡️ ALPHA 🛡️⎠ Uploading your song...",
+            "SPO_DOWN": "🖲️ ➢ ⎝🛡️ Dragon X 🛡️⎠ Downloading your song...",
+            "SPO_UP": "🖲️ ➢ ⎝🛡️ Dragon X 🛡️⎠ Uploading your song...",
             "SPO_ERR": "Please enter a valid spotify link!"
         },
         "chatbot":{
@@ -521,8 +521,8 @@
             "NOT": "```User not found!```",
             "TIKTOK_DESC": "Download without watermark videos from Tiktok",
             "NEED_WORD": "Must Enter a tiktok link!",
-            "DLOAD_TK": "```🖲️ ➢ ⎝🛡️ ALPHA 🛡️⎠ Your tiktok is downloading...```",
-            "UPLOADING_TK": "```🖲️ ➢ ⎝🛡️ ALPHA 🛡️⎠ Your tiktok is uploading...```",
+            "DLOAD_TK": "```🖲️ ➢ ⎝🛡️ Dragon X 🛡️⎠ Your tiktok is downloading...```",
+            "UPLOADING_TK": "```🖲️ ➢ ⎝🛡️ Dragon X 🛡️⎠ Your tiktok is uploading...```",
             "INVALID_TK": "*I could not find anything :(*"
         },
         "lyric":{
@@ -556,7 +556,7 @@
             "ID_WORD": "║ _Report ID :_ ",
             "USER": "║ _User :_ ",
             "REASON": "║ _Reason :_ ",
-            "END": "╚═➤ *⎝🛡️ ALPHA 🛡️⎠* ═➤",
+            "END": "╚═➤ *⎝🛡️ Dragon X 🛡️⎠* ═➤",
             "REPLY": "Please reply to a message",
             "BR": "║"
         }
