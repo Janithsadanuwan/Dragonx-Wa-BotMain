@@ -1,4 +1,4 @@
-janithconst Trex = require('../events');
+const Trex = require('../events');
 const Heroku = require('heroku-client');
 const Config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
