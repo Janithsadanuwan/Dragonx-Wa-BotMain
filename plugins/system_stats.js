@@ -81,7 +81,7 @@ const btn = {
         await message.client.sendMessage(message.jid, 
                 `*⎝🛡️ Dragon X 🛡️⎠*\n\n` + 
                 '```Installed version :```\n' +
-                ' V 4.0.0 Public'+
+                ' V 1.0.0 Public'+
                 `\n\n🍁 Check github for bot: https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot
            , MessageType.text);
             
