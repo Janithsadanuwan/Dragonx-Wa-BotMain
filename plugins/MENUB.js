@@ -42,7 +42,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '⎝🛡️ ALL MENU 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
  ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ ⎝🛡️ Dragon X 🛡️⎠
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -59,7 +59,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🔰  BOT  🔰 
  │        ──────────
  │
- │▷ .alpha
+ │▷ .Dragon X
  │▷ .alive
  │▷ .admin [ for owner ]
  │▷ .version
@@ -160,7 +160,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      Alpha BOT
+ │      Dragon X BOT
  ╰────────────────
  ╭────────────────
  │   🔰 Search 🔰 
@@ -225,18 +225,18 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
           🔰 POWERD BY 🔰
-          ⎝🛡️ ALPHA 🛡️⎠
+          ⎝🛡️ Dragon X 🛡️⎠
      🔰       Janith        🔰
 ` , rowId:"rowid1"},
         {title: '⎝🛡️ ADVANCE MENU 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-         ⎝🛡️ ALPHA 🛡️⎠ 
+         ⎝🛡️ Dragon X 🛡️⎠ 
 ═════════════════════════
 🔰 Command: °.xmedia°
 ➢ Description: °A plugin that have 25 media tools.°
 🔰 Command: °.admin°
 ➢ Description: °To get the admin command list°
-🔰 Command: °.alpha°
+🔰 Command: °.Dragon X°
 ➢ Description:°all commands°
 🔰 Command: °.lovepack°
 ➢ Description: °Send Love message to gf/bf.°
@@ -294,9 +294,9 @@ Example : .covid Sri Lanka°
 🔰 Command: °.video°
 ➢ Description: °Downloading videos from YouTube°
 🔰 Command: °.insta°
-➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
+➢ Description: °🔰➢ ⎝🛡️ Dragon X 🛡️⎠  Download instagram videos.°
 🔰 Command: °.fb°
-➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
+➢ Description: °🔰➢ ⎝🛡️ Dragon X 🛡️⎠  Download Facebook videos.°
 🔰 Command: °.trt°
 ➢ Description: °It translates with Google Translator. You must mention any message.°
 ⌨️ Example: °.trt en si (From English to Sinhala)°
@@ -375,7 +375,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid3"},
         {title: '⎝🛡️ Love Pack 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-                 ⎝🛡️ ALPHA 🛡️⎠
+                 ⎝🛡️ Dragon X 🛡️⎠
 ═════════════════════════
                   ♥ LOVE PACK ♥
                   
@@ -397,13 +397,13 @@ Example : .covid Sri Lanka°
 ➢ Description :  Send I need Girl friend message..
 ♥ Command : need bf
 ➢ Description :  Send i need Boy friend message..
-      ╔═⎝🛡️ ALPHA 🛡️⎠═╗
+      ╔═⎝🛡️ Dragon X 🛡️⎠═╗
        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
         {title: '⎝🛡️ FF PACK 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠  
+║         ⎝🛡️ Dragon X 🛡️⎠  
 ║         ║🔰╚FF PACK╝🔰║
 ║
 ╠═➢ 🔰.ff9       ❴your text❵
@@ -508,7 +508,7 @@ Example : .covid Sri Lanka°
 ║
 ║▷Creator: HIRUSHA
 ║
-║   ⎝🛡️ ALPHA 🛡️⎠ 
+║   ⎝🛡️ Dragon X 🛡️⎠ 
 ╚═════════════════════╝
 `, rowId:"rowid5"},
         {title: '⎝🛡️ Software Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
@@ -523,17 +523,17 @@ Example : .covid Sri Lanka°
 │  ◎Android Emulator Form Pc =.em
 │
 │         🔰POWERD BY🔰
-│        ⎝🛡️ ALPHA 🛡️⎠
+│        ⎝🛡️ Dragon X 🛡️⎠
 ╰──────────────
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Apk Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠   
+║         ⎝🛡️ Dragon X 🛡️⎠   
 ║        ║🔰╚APK STORE╝🔰║
 ║
 ║    Coming Soon
 ║
-║ ⎝🛡️ ALPHA 🛡️⎠   
+║ ⎝🛡️ Dragon X 🛡️⎠   
 ╚═════════════════════╝
 `, rowId:"rowid20"},
         {title: '⎝🛡️ DOWNLOADER 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
@@ -553,9 +553,9 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid9"},
-        {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
+        {title: '⎝🛡️ABOUT Dragon X BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 🔰 Developer : Janith
-🔰 Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
+🔰 Bot             : ⎝🛡️ Dragon X 🛡️⎠ WhatsApp User Bot v4.0.0
 🔰 Language : Sinhala & English
 🔰 Sponcer Team : PEARL TEAM SRI LANKA
 🔰 Develop language : Node js
@@ -563,11 +563,11 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid2"}
        ]
        
-       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL. 📛", rows: rows}]
+       const sections = [{title: "⎝🛡️ Dragon X 🛡️⎠ CMD 🔰 PANEL. 📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: "⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL. 📛",
+        description: "⎝🛡️ Dragon X 🛡️⎠ CMD 🔰 PANEL. 📛",
         sections: sections,
         listType: 1
        }
@@ -605,7 +605,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '⎝🛡️ ALL MENU 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
 ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ ⎝🛡️ Dragon X 🛡️⎠
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -622,7 +622,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🔰  BOT  🔰 
  │        ──────────
  │
- │▷ .alpha
+ │▷ .Dragon X
  │▷ .alive
  │▷ .admin [ for owner ]
  │▷ .version
@@ -724,7 +724,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      Alpha BOT
+ │      Dragon X BOT
  ╰────────────────
  ╭────────────────
  │   🔰 Search 🔰 
@@ -789,18 +789,18 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
           🔰 POWERD BY 🔰
-          ⎝🛡️ ALPHA 🛡️⎠
+          ⎝🛡️ Dragon X 🛡️⎠
      🔰       Janith        🔰
 ` , rowId:"rowid1"},
         {title: '⎝🛡️ ADVANCE MENU 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-         ⎝🛡️ ALPHA 🛡️⎠ 
+         ⎝🛡️ Dragon X 🛡️⎠ 
 ═════════════════════════
 🔰 Command: °.xmedia°
 ➢ Description: °A plugin that have 25 media tools.°
 🔰 Command: °.admin°
 ➢ Description: °To get the admin command list°
-🔰 Command: °.alpha°
+🔰 Command: °.Dragon X°
 ➢ Description:°all commands°
 🔰 Command: °.lovepack°
 ➢ Description: °Send Love message to gf/bf.°
@@ -858,9 +858,9 @@ Example : .covid Sri Lanka°
 🔰 Command: °.video°
 ➢ Description: °Downloading videos from YouTube°
 🔰 Command: °.insta°
-➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
+➢ Description: °🔰➢ ⎝🛡️ Dragon X 🛡️⎠  Download instagram videos.°
 🔰 Command: °.fb°
-➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
+➢ Description: °🔰➢ ⎝🛡️ Dragon X 🛡️⎠  Download Facebook videos.°
 🔰 Command: °.trt°
 ➢ Description: °It translates with Google Translator. You must mention any message.°
 ⌨️ Example: °.trt en si (From English to Sinhala)°
@@ -939,7 +939,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid3"},
         {title: '⎝🛡️ Love Pack 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-                 ⎝🛡️ ALPHA 🛡️⎠
+                 ⎝🛡️ Dragon X 🛡️⎠
 ═════════════════════════
                   ♥ LOVE PACK ♥
                   
@@ -961,13 +961,13 @@ Example : .covid Sri Lanka°
 ➢ Description :  Send I need Girl friend message..
 ♥ Command : need bf
 ➢ Description :  Send i need Boy friend message..
-      ╔═⎝🛡️ ALPHA 🛡️⎠═╗
+      ╔═⎝🛡️ Dragon X 🛡️⎠═╗
        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
         {title: '⎝🛡️ FF PACK 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠  
+║         ⎝🛡️ Dragon X 🛡️⎠  
 ║         ║🔰╚FF PACK╝🔰║
 ║
 ╠═➢ 🔰.ff9       ❴your text❵
@@ -1072,7 +1072,7 @@ Example : .covid Sri Lanka°
 ║
 ║▷Creator: HIRUSHA
 ║
-║   ⎝🛡️ ALPHA 🛡️⎠ 
+║   ⎝🛡️ Dragon X 🛡️⎠ 
 ╚═════════════════════╝
 `, rowId:"rowid5"},
         {title: '⎝🛡️ Software Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
@@ -1087,17 +1087,17 @@ Example : .covid Sri Lanka°
 │  ◎Android Emulator Form Pc =.em
 │
 │         🔰POWERD BY🔰
-│        ⎝🛡️ ALPHA 🛡️⎠
+│        ⎝🛡️ Dragon X 🛡️⎠
 ╰──────────────
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Apk Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠   
+║         ⎝🛡️ Dragon X 🛡️⎠   
 ║        ║🔰╚APK STORE╝🔰║
 ║
 ║    Coming Soon
 ║
-║ ⎝🛡️ ALPHA 🛡️⎠   
+║ ⎝🛡️ Dragon X 🛡️⎠   
 ╚═════════════════════╝
 
 `, rowId:"rowid20"},
@@ -1118,9 +1118,9 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid9"},
-        {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
+        {title: '⎝🛡️ABOUT Dragon X BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 🔰 Developer : Janith
-🔰 Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
+🔰 Bot             : ⎝🛡️ Dragon X 🛡️⎠ WhatsApp User Bot v4.0.0
 🔰 Language : Sinhala & English
 🔰 Sponcer Team : PEARL TEAM SRI LANKA
 🔰 Develop language : Node js
@@ -1128,11 +1128,11 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid2"}
        ]
        
-       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL. 📛", rows: rows}]
+       const sections = [{title: "⎝🛡️ Dragon X 🛡️⎠ CMD 🔰 PANEL. 📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: "⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL. 📛",
+        description: "⎝🛡️ Dragon X 🛡️⎠ CMD 🔰 PANEL. 📛",
         sections: sections,
         listType: 1
        }
