@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
         if (Config.ALIVEMSG == 'default') {
             
             const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🙈 I AM FINE 😜'}, type: 1},//jakakkak
+  {buttonId: 'MENU', buttonText: {displayText: '🤟 I AM FINE 😜'}, type: 1},//jakakkak
   {buttonId: 'MNU', buttonText: {displayText: '🥺 I  AM SAD 😥'}, type: 1},
  ]
 
@@ -33,7 +33,7 @@ const btn = {
             
             var image = await axios.get ('https://telegra.ph/file/35883180004518cb15fe9.jpg', {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: " 🔮 Hay All I'm Alive now 🔮\n\n🧿 My name : ⎝🛡️ Dragon x 🛡️⎠\n\n\n ◐. Developer: ACHI FERNANDO \n ◐. Github - https://bit.ly/3L8TVwS \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n ◐. All Cammands -Type .Dragon x\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon x 🛡️⎠"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🇱🇰 Hay All I'm Alive now 🇱🇰\n\n🧿 My name : ⎝🛡️ Dragon x 🛡️⎠\n\n\n ◐. Developer:Janith Sadanuwan \n ◐. Github - https://tinyurl.com/ycq7ra4x \n ◐. Youtube - https://tinyurl.com/yalqofqs \n ◐. Owner -https://tinyurl.com/y7evah34  \n ◐. Our Web - https://tinyurl.com/y7ul7kt4 \n\n ◐. All Cammands -Type .Dragon x\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon x 🛡️⎠"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -41,7 +41,7 @@ const btn = {
     }
     else {
         const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🙈 I AM FINE 😜'}, type: 1},//jakakkak
+  {buttonId: 'MENU', buttonText: {displayText: '🤟 I AM FINE 😜'}, type: 1},//jakakkak
   {buttonId: 'MNU', buttonText: {displayText: '🥺 I  AM SAD 😥'}, type: 1},
   ]
 const btn = {
@@ -81,7 +81,7 @@ const btn = {
         await message.client.sendMessage(message.jid, 
                 `*⎝🛡️ Dragon x 🛡️⎠*\n\n` + 
                 '```Installed version :```\n' +
-                ' V 4.0.0 Public'+
+                ' V 1.0.0 Public'+
                 `\n\n🍁 Check github for bot: https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot`
            , MessageType.text);
             
@@ -115,7 +115,7 @@ const btn = {
         await new Promise(r => setTimeout(r, 1000));
 
  
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🔮 Hay All I'm Alive now 🔮\n\n🧿 My name : ⎝🛡️ Dragon x 🛡️⎠\n\n\n ◐. Developer: ACHI FERNANDO \n ◐. Github - https://bit.ly/3L8TVwS \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n ◐. All Cammands -Type .Dragon x\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon x 🛡️⎠"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🇱🇰 Hay All I'm Alive now 🇱🇰\n\n🧿 My name : ⎝🛡️ Dragon x 🛡️⎠\n\n\n ◐. Developer:Janith Sadanuwan \n ◐. Github - https://tinyurl.com/ycq7ra4x \n ◐. Youtube - https://tinyurl.com/yalqofqs \n ◐. Owner -https://tinyurl.com/y7evah34  \n ◐. Our Web - https://tinyurl.com/y7ul7kt4 \n\n ◐. All Cammands -Type .Dragon x\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon x 🛡️⎠"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -123,7 +123,7 @@ const btn = {
     }
     else {
         const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🙈 I AM FINE 😜'}, type: 1},//jakakkak
+  {buttonId: 'MENU', buttonText: {displayText: '🤟 I AM FINE 😜'}, type: 1},//jakakkak
   {buttonId: 'MEN', buttonText: {displayText: '🥺 I  AM SAD 😥'}, type: 1},
   ]
 const btn = {
@@ -169,7 +169,7 @@ const btn = {
         await message.client.sendMessage(message.jid, 
                 `*⎝🛡️ Dragon x 🛡️⎠*\n\n` + 
                 '```Installed version :```\n' +
-                ' V 4.0.0 - Public'+
+                ' V 1.0.0 - Public'+
                 `\n\n🍁 Check github for bot:  https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot`
            , MessageType.text);
             
