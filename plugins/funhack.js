@@ -35,10 +35,10 @@ var time = new Array();
   var random9 = Math.floor(10*Math.random());
   
 const end = `status: 200
-url : https://drive.google.com/file/d/1HXclQumyRIRy9STTiHcTAHpSMM2mj5ZF/view?usp=sharing
+url : https://drive.google.com/file/d/1_8aFnDjt98iMhZt0Lp9PfO_XHj6Xig_a/view?usp=sharing
 host: drive.google.com
 ✅ Hack successfully!
-*ʜᴀᴄᴋᴇᴅ ʙʏ: DRAGONX 😈*
+*ʜᴀᴄᴋᴇᴅ ʙʏ: ⎝🛡 ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ  🛡⎠ 😈*
 `
 
 DRAGONX.addrex({pattern: 'hack$', fromMe: WType, desc: HACK_DESC, deleteCommand: true}, (async (message, match) => {
