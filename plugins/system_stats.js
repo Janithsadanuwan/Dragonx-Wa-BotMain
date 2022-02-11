@@ -33,7 +33,7 @@ const btn = {
             
             var image = await axios.get ('https://telegra.ph/file/cd6032c65c27e0510ddad.jpg', {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: " 🔮 Hay All I'm Alive now 🔮\n\n🧿 My name :🛡️ ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ 🛡️⎠\n\n\n ◐. Developer:ᴊᴀɴɪᴛʜ ꜱᴀᴅᴀɴᴜᴡᴀɴ  \n ◐. Github - https://bit.ly/3L8TVwS \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n ◐. All Cammands -Type .alpha\n\n\n🖲️Thank You For Using ⎝🛡️ ALPHA 🛡️⎠"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: " 🔮 Hay All I'm Alive now 🔮\n\n🧿 My name :🛡️ ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ 🛡️⎠\n\n\n ◐. Developer:ᴊᴀɴɪᴛʜ ꜱᴀᴅᴀɴᴜᴡᴀɴ  \n ◐. Github - https://bit.ly/3L8TVwS \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n ◐. All Cammands -Type .Dragon X\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon X 🛡️⎠"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -47,7 +47,7 @@ const btn = {
 const btn = {
    // imageMessage: 'https://telegra.ph/file/cd6032c65c27e0510ddad.jpg',
     contentText: "♥️💫 HOW ARE YOU 🙈♥️",
-    footerText: 'BY ⎝🛡️ ALPHA 🛡️⎠ ▷',
+    footerText: 'BY ⎝🛡️ Dragon X 🛡️⎠ ▷',
     buttons: buttons,
     headerType: 1
 }
@@ -57,7 +57,7 @@ const btn = {
             
             var image = await axios.get ( Config.AL , {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*⎝🛡️ ALPHA 🛡️⎠*' })
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*⎝🛡️ Dragon X 🛡️⎠*' })
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
      }
@@ -79,10 +79,10 @@ const btn = {
     Trex.addrex({pattern: 'version', fromMe: true,  deleteCommand: false,  desc: Lang.BOT_V}, (async (message, match) => {    
     
         await message.client.sendMessage(message.jid, 
-                `*⎝🛡️ ALPHA 🛡️⎠*\n\n` + 
+                `*⎝🛡️ Dragon X 🛡️⎠*\n\n` + 
                 '```Installed version :```\n' +
                 ' V 4.0.0 Public'+
-                `\n\n🍁 Check github for bot: https://github.com/AchiyaCT/ALPHA-V4`
+                `\n\n🍁 Check github for bot: https://github.com/AchiyaCT/Dragon X-V4`
            , MessageType.text);
             
         }));
@@ -101,13 +101,13 @@ else if (Config.WORKTYPE == 'public') {
 const btn = {
    // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
     contentText: "♥️💫 HOW ARE YOU 🙈♥️",
-    footerText: 'BY ⎝🛡️ ALPHA 🛡️⎠ ▷',
+    footerText: 'BY ⎝🛡️Dragon X 🛡️⎠ ▷',
     buttons: buttons,
     headerType: 1
 }
 
             
-            var image = await axios.get ('https://telegra.ph/file/cd6032c65c27e0510ddad.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get ('https://telegra.ph/file/35883180004518cb15fe9.jpg', {responseType: 'arraybuffer'})
        
 
        await message.client.updatePresence(message.jid,Presence.composing)
@@ -115,7 +115,7 @@ const btn = {
         await new Promise(r => setTimeout(r, 1000));
 
  
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🔮 Hay All I'm Alive now 🔮\n\n🧿 My name : ⎝🛡️ ALPHA 🛡️⎠\n\n\n ◐. Developer: ACHI FERNANDO \n ◐. Github - https://bit.ly/3L8TVwS \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n ◐. All Cammands -Type .alpha\n\n\n🖲️Thank You For Using ⎝🛡️ ALPHA 🛡️⎠"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🔮 Hay All I'm Alive now 🔮\n\n🧿 My name : ⎝🛡️ Dragon X 🛡️⎠\n\n\n ◐. Developer: ACHI FERNANDO \n ◐. Github - https://bit.ly/3L8TVwS \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n ◐. All Cammands -Type .Dragon X\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon X 🛡️⎠"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -127,9 +127,9 @@ const btn = {
   {buttonId: 'MEN', buttonText: {displayText: '🥺 I  AM SAD 😥'}, type: 1},
   ]
 const btn = {
-   // imageMessage: 'https://telegra.ph/file/cd6032c65c27e0510ddad.jpg',
+   // imageMessage: 'https://telegra.ph/file/35883180004518cb15fe9.jpg',
     contentText: "♥️💫 HOW ARE YOU 🙈♥️",
-    footerText: 'BY ⎝🛡️ ALPHA 🛡️⎠ ▷',
+    footerText: 'BY ⎝🛡️ Dragon X 🛡️⎠ ▷',
     buttons: buttons,
     headerType: 1
 }
@@ -145,7 +145,7 @@ const btn = {
         await new Promise(r => setTimeout(r, 1000));
 
  
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*⎝🛡️ ALPHA 🛡️⎠*' })
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*⎝🛡️ Dragon X 🛡️⎠*' })
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
      }
@@ -167,10 +167,10 @@ const btn = {
     Trex.addrex({pattern: 'version', fromMe: false, desc: Lang.BOT_V}, (async (message, match) => {    
     
         await message.client.sendMessage(message.jid, 
-                `*⎝🛡️ ALPHA 🛡️⎠*\n\n` + 
+                `*⎝🛡️ Dragon X 🛡️⎠*\n\n` + 
                 '```Installed version :```\n' +
-                ' V 4.0.0 - Public'+
-                `\n\n🍁 Check github for bot:  https://github.com/AchiyaCT/ALPHA-V4`
+                ' V 1.0.0 - Public'+
+                `\n\n🍁 Check github for bot:  https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot`
            , MessageType.text);
             
         }));
