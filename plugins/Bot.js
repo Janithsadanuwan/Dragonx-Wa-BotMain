@@ -55,8 +55,6 @@ else if (Config.WORKTYPE == 'public') {
 
 🍒    *Language - NODE JS*
 
-🍒    *Sponser Team - PEARL Team*
-
 
 
    🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰 `  ,quoted: message.data})
