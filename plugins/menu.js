@@ -320,7 +320,7 @@ Example : .covid Sri Lanka°
 ⌨️ Example: .github janithsadanuwan°
 🔰 Command: °.tk°
 ➢ Description: °Stalk tiktok profile to a given username.
-⌨️ Example: .tK Janith66°
+⌨️ Example: .tK Janith°
 🔰 Command: °.ss°
 ➢ Description: °Take screenshot of given links°
 🔰 Command: °.mod°
@@ -868,7 +868,7 @@ Example : .covid Sri Lanka°
 ⌨️ Example: .github TRex°
 🔰 Command: °.tk°
 ➢ Description: °Stalk tiktok profile to a given username.
-⌨️ Example: .tK Janith66°
+⌨️ Example: .tK Janith°
 🔰 Command: °.ss°
 ➢ Description: °Take screenshot of given links°
 🔰 Command: °.mod°
