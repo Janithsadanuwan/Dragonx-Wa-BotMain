@@ -97,7 +97,7 @@ async function Trex () {
     })    
 
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('⎝🛡️ A')}${chalk.blue.bold('LPHA 🛡️⎠')}
+        console.log(`${chalk.green.bold('⎝🛡️ Dr')}${chalk.blue.bold('agon x 🛡️⎠')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 ${chalk.blue.italic('⎝🛡️ Connecting to WhatsApp...▶')}`);
     });
@@ -143,13 +143,13 @@ ${chalk.blue.italic('⎝🛡️ Connecting to WhatsApp...▶')}`);
         );
         
          if (config.LANG == 'EN') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: `⎝🛡️ Hellow !! ${conn.user.name}! \n\n*🖲️ Welcome To ⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot  :│🖲️*\n\n\n Your Bot Working  As ${config.WORKTYPE} 🖲️.\n\n*🖲️│⎝🛡️ DRAGONX 🛡️⎠ WORKING Your Account*\n\n*🖲️▷ Use the 🚀.DRAGONX command to get bot menu...*\n\n\n*🖲️ ⎝🛡️ DRAGONX 🛡️⎠ is a powerfull WhatsApp robot developed by Janith sadanuwan .*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n🖲️ .up Command use for new items*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: `⎝🛡️ Hellow !! ${conn.user.name}! \n\n*🔰 Welcome To ⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot  :│🔰*\n\n\n Your Bot Working  As ${config.WORKTYPE} 🔰.\n\n*🔰│⎝🛡️ DRAGONX 🛡️⎠ WORKING Your Account*\n\n*🔰▷ Use the 🚀.DRAGONX command to get bot menu...*\n\n\n*🔰 ⎝🛡️ DRAGONX 🛡️⎠ is a powerfull WhatsApp robot developed by Janith sadanuwan .*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n🔰 .up Command use for new items*\n\n`});
              
          } else if (config.LANG == 'SI') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: `⎝🛡️ අයුබොවන් !! ${conn.user.name}! \n\n*🖲️ සාදරයෙන් ⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot  වෙත පිලිගන්නවා :│🖲️*\n\n\n ඔබේ Bot ${config.WORKTYPE} ලෙස ක්‍රියාකරයි.\n\n*🖲️│⎝🛡️ DRAGONX 🛡️⎠ ඔබගේ ගිණුමේ දැන් සක්‍රියයි*\n\n*🖲️ ⎝🛡️ DRAGONX 🛡️⎠ bot සම්පූර්න මෙනුව ලබා ගැනීමට 🖲️.DRAGONX විධානය භාවිතා කරන්න...*\n\n\n*🖲️ ⎝🛡️ DRAGONX 🛡️⎠ යනූ සීඝ්‍රයෙන් වර්ධනය වන Whatsapp රොබෝවෙකි..⎝🛡️ DRAGONX 🛡️⎠ වෙත ලැබෙන නව අංග හා යතාවත්කාලින කිරිම් ලබා ගැනීමට🖲️ .up විධානය භාවිතා කරන්න..*\n\n*🖲️ මෙය ඔබගේ LOG අංකයයි.මෙහි විධාන භාවිතයෙන් වළකින්න.*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: `⎝🛡️ අයුබොවන් !! ${conn.user.name}! \n\n*🔰 සාදරයෙන් ⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot  වෙත පිලිගන්නවා :│🔰*\n\n\n ඔබේ Bot ${config.WORKTYPE} ලෙස ක්‍රියාකරයි.\n\n*🔰│⎝🛡️ DRAGONX 🛡️⎠ ඔබගේ ගිණුමේ දැන් සක්‍රියයි*\n\n*🔰 ⎝🛡️ DRAGONX 🛡️⎠ bot සම්පූර්න මෙනුව ලබා ගැනීමට 🔰.DRAGONX විධානය භාවිතා කරන්න...*\n\n\n*🔰 ⎝🛡️ DRAGONX 🛡️⎠ යනූ සීඝ්‍රයෙන් වර්ධනය වන Whatsapp රොබෝවෙකි..⎝🛡️ DRAGONX 🛡️⎠ වෙත ලැබෙන නව අංග හා යතාවත්කාලින කිරිම් ලබා ගැනීමට🔰 .up විධානය භාවිතා කරන්න..*\n\n*🔰 මෙය ඔබගේ LOG අංකයයි.මෙහි විධාන භාවිතයෙන් වළකින්න.*\n\n`});
              
          } else {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: `⎝🛡️ Hellow !!  ${conn.user.name}! \\nn*🖲️ Welcome To ⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot  :│🖲️*\n\n\n Your Bot Working  As ${config.WORKTYPE} 🖲️.\n\n*🖲️ │⎝🛡️ DRAGONX 🛡️⎠ WORKING Your Account*\n\n*🖲️▷ Use the 🚀.DRAGONX command to get bot menu...*\n\n\n*🖲️ ⎝🛡️ DRAGONX 🛡️⎠ is a powerfull WhatsApp robot developed by Janith sadanuwan .*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n🖲️ .up Command use for new items*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: `⎝🛡️ Hellow !!  ${conn.user.name}! \\nn*🔰 Welcome To ⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot  :│🔰*\n\n\n Your Bot Working  As ${config.WORKTYPE} 🔰.\n\n*🔰 │⎝🛡️ DRAGONX 🛡️⎠ WORKING Your Account*\n\n*🔰▷ Use the 🚀.DRAGONX command to get bot menu...*\n\n\n*🔰 ⎝🛡️ DRAGONX 🛡️⎠ is a powerfull WhatsApp robot developed by Janith sadanuwan .*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n🔰 .up Command use for new items*\n\n`});
         }
      });
     
@@ -296,7 +296,7 @@ ${chalk.blue.italic('⎝🛡️ Connecting to WhatsApp...▶')}`);
             if (config.LANG == 'ID') announce = '📢◉◉ \n👾Announcement System 🔘'
             
             let video = 'https://youtu.be/oWDW6_Ewi1U'
-            let image = 'https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg'
+            let image = 'https://telegra.ph/file/35883180004518cb15fe9.jpg'
             
             if (video.includes('http') || video.includes('https')) {
                 var VID = video.split('youtu.be')[1].split(' ')[0].replace('/', '')
@@ -438,13 +438,13 @@ ${chalk.blue.italic('⎝🛡️ Connecting to WhatsApp...▶')}`);
                             await command.function(whats, match);
                         } catch (error) {
                             if (config.LANG == 'EN') {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: '⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot  WORKING AS '+config.WORKTYPE+'!!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_🖲️Support 01▷ https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE\n\n*Error:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: '⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot  WORKING AS '+config.WORKTYPE+'!!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_🔰Support 01▷ https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE\n\n*Error:* ```' + error + '```\n\n' });
                                 
                             } else if (config.LANG == 'SI') {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: '⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot   '+config.WORKTYPE+' ලෙස ක්‍රියා කරයි!!\n\n▷ _මෙය ඔබගේ LOG අංකයයි මෙහි විධන භාවිතයෙන් වළකින්න_\n▷ඔබට යම් ගැටලුවක් ඇත්නම් අපගේ සහය සමූහට ලිවිය හැක.\nf_🖲️Support 01▷ https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE\n\n*දෝෂය:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: '⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot   '+config.WORKTYPE+' ලෙස ක්‍රියා කරයි!!\n\n▷ _මෙය ඔබගේ LOG අංකයයි මෙහි විධන භාවිතයෙන් වළකින්න_\n▷ඔබට යම් ගැටලුවක් ඇත්නම් අපගේ සහය සමූහට ලිවිය හැක.\nf_🔰Support 01▷ https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE\n\n*දෝෂය:* ```' + error + '```\n\n' });
                                 
                             } else {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: '⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot *  WORKING AS '+config.WORKTYPE+'!!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_🖲️Support 01▷ https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE\n\n*Error:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/cd6032c65c27e0510ddad.jpg"), MessageType.image, { caption: '⎝🛡️ DRAGONX 🛡️⎠ WhatsApp User Bot *  WORKING AS '+config.WORKTYPE+'!!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_🔰Support 01▷ https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE\n\n*Error:* ```' + error + '```\n\n' });
                             }
                         }
                     }
