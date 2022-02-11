@@ -20,7 +20,7 @@ if (Config.WORKTYPE == 'public') {
         
 if (Config.BTN == 'btn') {
 
-Trex.addrex({pattern: 'alpha', fromMe: false}, (async (message, match) => {
+Trex.addrex({pattern: 'menu', fromMe: false}, (async (message, match) => {
 // T-REX LIST👿
         var time = new Date().toLocaleString('HI', { timeZone: Config.TIME }).split(' ')[1]
 
