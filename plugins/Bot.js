@@ -29,7 +29,7 @@ if (Config.WORKTYPE == 'private') {
 🍒 *Kasun Ravihara* 🍒
 ➻ *ʙᴏᴛ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢʜɴᴇʀ*
 
-🍒 *Hiruwa* 🍒
+🍒 *janith* 🍒
 ➻ *Co Owner*
 
 🍒 *Thinura* 🍒
@@ -67,7 +67,7 @@ else if (Config.WORKTYPE == 'public') {
 🍒 *Kasun Ravihara* 🍒
 ➻ *ʙᴏᴛ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢʜɴᴇʀ*
 
-🍒 *Hiruwa* 🍒
+🍒 *janith* 🍒
 ➻ *Co Owner*
 
 🍒 *Thinura* 🍒
@@ -103,7 +103,7 @@ else if (Config.WORKTYPE == 'public') {
 🍒 *Kasun Ravihara* 🍒
 ➻ *ʙᴏᴛ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢʜɴᴇʀ*
 
-🍒 *Hiruwa* 🍒
+🍒 *janith* 🍒
 ➻ *Co Owner*
 
 🍒 *Thinura* 🍒

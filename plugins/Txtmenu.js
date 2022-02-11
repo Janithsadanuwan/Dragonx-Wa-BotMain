@@ -1,4 +1,4 @@
-/* DEVELOPER HIRUWA
+/* DEVELOPER janith
 Don't copy this i take action for you
 👿👿👿👿👿👿👿
 T-Rex v.1.0 public 👿

@@ -1,7 +1,7 @@
 /* Copyright (C) 2021 T-REX
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-T-REX HIRUWA 👿
+T-REX janith 👿
 */
 
 const simpleGit = require('simple-git');
@@ -122,7 +122,7 @@ Trex.addrex({pattern: 'up$', fromMe: true,  deleteCommand: false,  desc: Lang.UP
         var degisiklikler = Lang.NEW_UPDATE;
         commits['all'].map(
             (commit) => {
-                degisiklikler += '🍁 ➢ [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' \n <' + "Hiruwa" + '>\n\n';
+                degisiklikler += '🍁 ➢ [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' \n <' + "janith" + '>\n\n';
             }
         );
         
