@@ -17,12 +17,13 @@ if (Config.WORKTYPE == 'private') {
        
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 ⎝🛡️ DRAGONX 🛡️⎠ *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
 
-🍒   *Owner & Founder - Janith sadanuwan *
+🍒   *Owner & Founder - Janith sadanuwan*
+
 
 🍒   *Language - NODE JS*
 
 
-   🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
+🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
 
     }));
 }
