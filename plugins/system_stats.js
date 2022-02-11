@@ -115,7 +115,7 @@ const btn = {
         await new Promise(r => setTimeout(r, 1000));
 
  
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🔮 Hay All I'm Alive now 🔮\n\n🧿 My name : ⎝🛡️ Dragon X 🛡️⎠\n\n\n ◐. Developer: ACHI FERNANDO \n ◐. Github - https://bit.ly/3L8TVwS \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n ◐. All Cammands -Type .Dragon X\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon X 🛡️⎠"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🔮 Hay All I'm Alive now 🔮\n\n🧿 My name : ⎝🛡️ Dragon X 🛡️⎠\n\n\n ◐. Developer:Janith Sadanuwan \n ◐. Github -https://bit.ly/3LteqEX \n ◐. Youtube - https://bit.ly/35Vl8TG \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3uIHsdE \n\n ◐. All Cammands -Type .Menu X\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon X 🛡️⎠"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
