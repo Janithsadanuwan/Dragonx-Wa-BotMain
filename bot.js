@@ -97,7 +97,7 @@ async function Trex () {
     })    
 
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('⎝🛡️ A')}${chalk.blue.bold('LPHA 🛡️⎠')}
+        console.log(`${chalk.green.bold('⎝🛡️ Dr')}${chalk.blue.bold('agon x🛡️⎠')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 ${chalk.blue.italic('⎝🛡️ Connecting to WhatsApp...▶')}`);
     });
