@@ -194,7 +194,7 @@ Trex.addrex({pattern: 'video ?(.*)', fromMe: true, desc: 'hu'}, (async (message,
       if (msg === '200') {
         await message.client.sendMessage(message.jid,Lang.DL_VID,MessageType.text);
         await message.client.sendMessage(message.jid,Lang.UP_VID,MessageType.text);
-        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "⎝🛡️ ALPHA 🛡️⎠ "}) 
+        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "⎝🛡️ Dragonx 🛡️⎠ "}) 
         }
           })
           .catch(
@@ -225,7 +225,7 @@ Trex.addrex({pattern: 'video ?(.*)', fromMe: true, desc: 'hu'}, (async (message,
       if (msg === '200') {
         await message.client.sendMessage(message.jid,Lang.DL_VID,MessageType.text);
         await message.client.sendMessage(message.jid,Lang.UP_VID,MessageType.text);
-        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "⎝🛡️ ALPHA 🛡️⎠ "}) 
+        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "⎝🛡️ Dragonx 🛡️⎠ "}) 
         }
           })
           .catch(
@@ -664,7 +664,7 @@ else if (config.WORKTYPE == 'public') {
       if (msg === '200') {
         await message.client.sendMessage(message.jid,Lang.DL_VID,MessageType.text, {quoted: message.data});
         await message.client.sendMessage(message.jid,Lang.UP_VID,MessageType.text, {quoted: message.data});
-        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {quoted: message.data}, {caption: "⎝🛡️ ALPHA 🛡️⎠ "}) 
+        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {quoted: message.data}, {caption: "⎝🛡️ Dragonx 🛡️⎠ "}) 
         }
           })
           .catch(
@@ -695,7 +695,7 @@ else if (config.WORKTYPE == 'public') {
       if (msg === '200') {
         await message.client.sendMessage(message.jid,Lang.DL_VID,MessageType.text, {quoted: message.data});
         await message.client.sendMessage(message.jid,Lang.UP_VID,MessageType.text, {quoted: message.data});
-        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "⎝🛡️ ALPHA 🛡️⎠ "}) 
+        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "⎝🛡️ Dragonx 🛡️⎠ "}) 
         }
           })
           .catch(

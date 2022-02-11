@@ -23,10 +23,10 @@ var location = await message.client.downloadAndSaveMediaMessage({
     });
 
     ffmpeg(location)
-        .save('Alpha.mp4')
+        .save('Dragonx.mp4')
         .on('end', async () => {
         
-        var geturl = await uploadByBuffer(fs.readFileSync('Alpha.mp4' ), 'video/mp4')
+        var geturl = await uploadByBuffer(fs.readFileSync('Dragonx.mp4' ), 'video/mp4')
         
         await message.client.sendMessage(message.jid,'YOUR VIDEO TELEGRAPH LINK IS 🖲️►\n\n'+ geturl.link , MessageType.text)
         });
@@ -49,10 +49,10 @@ var location = await message.client.downloadAndSaveMediaMessage({
     });
 
     ffmpeg(location)
-        .save('Alpha.mp4')
+        .save('Dragonx.mp4')
         .on('end', async () => {
         
-        var geturl = await uploadByBuffer(fs.readFileSync('Alpha.mp4' ), 'video/mp4')
+        var geturl = await uploadByBuffer(fs.readFileSync('Dragonx.mp4' ), 'video/mp4')
         
         await message.client.sendMessage(message.jid,'YOUR VIDEO TELEGRAPH LINK IS 🖲️►\n\n'+ geturl.link , MessageType.text)
         });

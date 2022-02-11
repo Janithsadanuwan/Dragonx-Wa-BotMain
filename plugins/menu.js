@@ -145,7 +145,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  │▷ .Softstore
  │ 
- │   By Achi Bro lk      
+ │   By Janith sadanuwan      
  │
  ╰────────────────
  ╭────────────────
@@ -512,7 +512,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Software Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╭───────────────
-│  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
+│  🔰 SOFTWARE STORE BY Janith sadanuwan 🔰
 │
 │  ◎Adobe Editing Softwares type =.adobe
 │  ◎Wondershare Softwares type =.ws
@@ -545,7 +545,7 @@ Example : .covid Sri Lanka°
  ╰────────────────
 `, rowId:"rowid9"},
         {title: '⎝🛡️ABOUT Dragon X BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
-🔰 Developer : Achi Fernando (Janith)
+🔰 Developer : Janith sadanuwan (Janith)
 🔰 Bot             : ⎝🛡️ Dragon X 🛡️⎠ WhatsApp User Bot v4.0.0
 🔰 Language : Sinhala & English
 🔰 Sponcer Team : PEARL TEAM SRI LANKA
@@ -693,7 +693,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  │▷ .Softstore
  │ 
- │   By Achi Bro lk      
+ │   By Janith sadanuwan      
  │
  ╰────────────────
  ╭────────────────
@@ -1061,7 +1061,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid5"},
         {title: '⎝🛡️ Software Store 🛡️⎠ ', description:`▷▷▷▷▷▷\n\n\n
 ╭───────────────
-│  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
+│  🔰 SOFTWARE STORE BY Janith sadanuwan 🔰
 │
 │  ◎Adobe Editing Softwares type =.adobe
 │  ◎Wondershare Softwares type =.ws
@@ -1264,7 +1264,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  │▷ .Softstore
  │ 
- │   By Achi Bro lk      
+ │   By Janith sadanuwan      
  │
  ╰────────────────
  ╭────────────────
@@ -1631,7 +1631,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid5"},
         {title: '⎝🛡️ Software Store 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╭───────────────
-│  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
+│  🔰 SOFTWARE STORE BY Janith sadanuwan 🔰
 │
 │  ◎Adobe Editing Softwares type =.adobe
 │  ◎Wondershare Softwares type =.ws
@@ -1673,7 +1673,7 @@ Example : .covid Sri Lanka°
  ╰────────────────
 `, rowId:"rowid8"},
         {title: '⎝🛡️ABOUT Dragon X BOT 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
-🔰 Developer : Achi Fernando (Janith)
+🔰 Developer : Janith sadanuwan (Janith)
 🔰 Bot             : ⎝🛡️ Dragon X 🛡️⎠ WhatsApp User Bot v4.0.0
 🔰 Language : Sinhala & English
 🔰 Sponcer Team : PEARL TEAM SRI LANKA

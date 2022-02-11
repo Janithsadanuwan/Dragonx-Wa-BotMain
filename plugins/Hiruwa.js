@@ -34,7 +34,7 @@ const button = {
  buttonText: 'Click Me!',
  description: `${topText}
  
-⎝🛡️ ALPHA 🛡️⎠`,
+⎝🛡️ Dragonx 🛡️⎠`,
  sections: sections,
  listType: 1
 }
