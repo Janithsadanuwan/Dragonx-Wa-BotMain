@@ -82,7 +82,7 @@ const btn = {
                 `*⎝🛡️ Dragon X 🛡️⎠*\n\n` + 
                 '```Installed version :```\n' +
                 ' V 4.0.0 Public'+
-                `\n\n🍁 Check github for bot: https://github.com/AchiyaCT/Dragon X-V4`
+                `\n\n🍁 Check github for bot: https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot
            , MessageType.text);
             
         }));
