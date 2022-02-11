@@ -559,7 +559,7 @@ Example : .covid Sri Lanka°
 🔰 Language : Sinhala & English
 🔰 Sponcer Team : PEARL TEAM SRI LANKA
 🔰 Develop language : Node js
-🔰 Developer no : http://wa.me/+94720603183
+🔰 Developer no : http://wa.me/+94788175828
 `, rowId:"rowid2"}
        ]
        
