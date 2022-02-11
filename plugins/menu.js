@@ -50,21 +50,21 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │Time⌚` + time + `
  │
  │   My Bot Work as
- │🖲️ `+Config.WORKTYPE+` 🖲️
+ │🔰 `+Config.WORKTYPE+` 🔰
  │
  ╰────────────────
  ╭────────────────
- │       🖲️  BOT  🖲️ 
+ │       🔰  BOT  🔰 
  │        ──────────
  │
- │▷ .alpha
+ │▷ .menu
  │▷ .alive
  │▷ .admin [ for owner ]
  │▷ .version
  │
  ╰────────────────
  ╭────────────────
- │    🖲️  Sticker 🖲️ 
+ │    🔰  Sticker 🔰 
  │
  │▷ .attp { text }
  │▷ .sticker
@@ -72,7 +72,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │     🖲️ Uploder 🖲️
+ │     🔰 Uploder 🔰
  │
  │▷ .uploadp [ reply a photo ]
  │▷ .uploadv [ reply a video ]
@@ -84,7 +84,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       5mb source
  ╰────────────────
  ╭────────────────
- │ 🖲️ Text To Img 🖲️ 
+ │ 🔰 Text To Img 🔰 
  │
  │▷ .attppack
  │▷ .ffpack
@@ -98,7 +98,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │  🖲️ Downloader 🖲️
+ │  🔰 Downloader 🔰
  │
  │▷ .video { vid link }
  │▷ .mp4 { vid name }
@@ -114,7 +114,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │     🖲️ Groups 🖲️ 
+ │     🔰 Groups 🔰 
  │
  │▷ .grp
  │▷ .rules
@@ -141,7 +141,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │ 🖲️ Software Store 🖲️
+ │ 🔰 Software Store 🔰
  │
  │▷ .Softstore
  │ 
@@ -149,7 +149,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │  🖲️ For owner 🖲️
+ │  🔰 For owner 🔰
  │
  │▷ .name { change name }
  │▷ .pp { cha profilr pic}
@@ -162,7 +162,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │      Alpha BOT
  ╰────────────────
  ╭────────────────
- │   🖲️ Search 🖲️ 
+ │   🔰 Search 🔰 
  │
  │▷ .yt { text }
  │▷ .spoti { text }
@@ -174,7 +174,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │🖲️ Media Editor🖲️
+ │🔰 Media Editor🔰
  │
  │▷ .xmedia
  │▷ .tblend
@@ -189,14 +189,14 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │    🖲️ Random 🖲️
+ │    🔰 Random 🔰
  │
  │▷ .quote
  │▷ .anime
  │
  ╰────────────────
  ╭────────────────
- │       🖲️ Fun 🖲️ 
+ │       🔰 Fun 🔰 
  │
  │▷ .gm
  │▷ .agm
@@ -209,7 +209,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
  ╭────────────────
- │      🖲️ Other 🖲️ 
+ │      🔰 Other 🔰 
  │
  │▷ .ss { link }
  │▷ .afk { bot is online }
@@ -223,153 +223,153 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │▷ .covid
  ╰────────────────
  
-          🖲️ POWERD BY 🖲️
+          🔰 POWERD BY 🔰
           ⎝🛡️ ALPHA 🛡️⎠
-     🖲️       Achiya        🖲️
+     🔰       Janith        🔰
 ` , rowId:"rowid1"},
         {title: '⎝🛡️ ADVANCE MENU 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
          ⎝🛡️ ALPHA 🛡️⎠ 
 ═════════════════════════
-🖲️ Command: °.xmedia°
+🔰 Command: °.xmedia°
 ➢ Description: °A plugin that have 25 media tools.°
-🖲️ Command: °.admin°
+🔰 Command: °.admin°
 ➢ Description: °To get the admin command list°
-🖲️ Command: °.alpha°
+🔰 Command: °.alpha°
 ➢ Description:°all commands°
-🖲️ Command: °.lovepack°
+🔰 Command: °.lovepack°
 ➢ Description: °Send Love message to gf/bf.°
-🖲️ Command; °.grp°
+🔰 Command; °.grp°
 ➢ Description: °Send Groups list°
-🖲️ Command: °.warn1,.warn2,.warn3,.warn4
+🔰 Command: °.warn1,.warn2,.warn3,.warn4
 ➢ Description: °Send Group Warm msg. Admin only Command°
-🖲️ Command: °.rules°
+🔰 Command: °.rules°
 *➢ Description: * °Send Group Rules°
-🖲️ Command: °.switch°
+🔰 Command: °.switch°
 ➢ Description: °Turn on/off chat bot.
 ⌨️ Example: To turn on AI chat, .switch CHAT_BOT:true
 To turn on AI chat, .switch CHAT_BOT:false
 (This is a only admin command)°
-🖲️ Command: °.anime°
+🔰 Command: °.anime°
 ➢ Description: °Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..°
-🖲️ Command: °.antispam°
+🔰 Command: °.antispam°
 ➢ Description: °This command for any emergency situation about any kind of WhatsApp SPAM in Group°
-🖲️ Command: °.mp3°
+🔰 Command: °.mp3°
 ➢ Description: °Convert mp4 into mp3.°
-🖲️ Command: °.photo°
-➢ Description: °🖲️➢ Convert sticker into an image.°
-🖲️ Command: °.ffmpeg°
+🔰 Command: °.photo°
+➢ Description: °🔰➢ Convert sticker into an image.°
+🔰 Command: °.ffmpeg°
 ➢ Description: °Apply ffmpeg filter to a video
 ⌨️ Example: .ffmpeg fade=in:0:30°
-🖲️ Command: °.gn°
+🔰 Command: °.gn°
 ➢ Description: °Send Gn wish with image.°
-🖲️ Command: °.gm°
+🔰 Command: °.gm°
 ➢ Description: °Send Gm wish with image.°
-🖲️ Command: °.info°
+🔰 Command: °.info°
 ➢ Description: °Show chat details°
-🖲️ Command: °.covid°
+🔰 Command: °.covid°
 ➢ Description: °Check information about Covid-19 of countries.
 Example : .covid Sri Lanka°
-🖲️ Command: °.meme°
+🔰 Command: °.meme°
 ➢ Description: °The photos you replied to are memes.°
-🖲️ Command: °.movie°
+🔰 Command: °.movie°
 ➢ Description: °Movies වල විස්තර ලබාදීම.°
-🖲️ Command: °.notes°
+🔰 Command: °.notes°
 ➢ Description: °Show your notes.°
-🖲️ Command: °.save°
+🔰 Command: °.save°
 ➢ Description: °Reply .save to a message or type .save <your_note>°
-🖲️ Command: °.deleteNotes°
+🔰 Command: °.deleteNotes°
 ➢ Description: °Clear your all notes.°
-🖲️ Command: °.ocr°
+🔰 Command: °.ocr°
 ➢ Description: °Scan your picture into text.°
-🖲️ Command: °.removebg°
+🔰 Command: °.removebg°
 ➢ Description: °Removing background of image.°
-🖲️ Command: °.report°
+🔰 Command: °.report°
 ➢ Description: °Report someone in the group to admins.°
-🖲️ Command: °.fsong°
+🔰 Command: °.fsong°
 ➢ Description: °Uploading file type songs.°
-🖲️ Command: °.song°
+🔰 Command: °.song°
 ➢ Description: °Uploading mp3 type songs.°
-🖲️ Command: °.video°
+🔰 Command: °.video°
 ➢ Description: °Downloading videos from YouTube°
-🖲️ Command: °.insta°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
-🖲️ Command: °.fb°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
-🖲️ Command: °.trt°
+🔰 Command: °.insta°
+➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
+🔰 Command: °.fb°
+➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
+🔰 Command: °.trt°
 ➢ Description: °It translates with Google Translator. You must mention any message.°
 ⌨️ Example: °.trt en si (From English to Sinhala)°
-🖲️ Command: °.spdf°
+🔰 Command: °.spdf°
 ➢ Description: °Converts a Site into PDF°
-🖲️ Command: °.quote°
+🔰 Command: °.quote°
 ➢ Description: °It Sends Random Quote°
-🖲️ Command: °.currency°
+🔰 Command: °.currency°
 ➢ Description: °To convert currencies.°
-🖲️ Command: °.tts°
+🔰 Command: °.tts°
 ➢ Description: °It translates words into voice messages.°
-🖲️ Command: °.yt°
+🔰 Command: °.yt°
 ➢ Description: °Searchng videos on YouTube.°
-🖲️ Command: °.wiki°
+🔰 Command: °.wiki°
 ➢ Description: °Search Wikipedia.°
-🖲️ Command: °.img°
+🔰 Command: °.img°
 ➢ Description: °Downloading google images.°
-🖲️ Command: °.wame°
+🔰 Command: °.wame°
 ➢ Description: °Get a link to the user chat.°
-🖲️ Command: °.github°
+🔰 Command: °.github°
 ➢ Description: °Stalk github profiles of given username.
-⌨️ Example: .github TRex°
-🖲️ Command: °.tk°
+⌨️ Example: .github janithsadanuwan°
+🔰 Command: °.tk°
 ➢ Description: °Stalk tiktok profile to a given username.
-⌨️ Example: .tK Achiya66°
-🖲️ Command: °.ss°
+⌨️ Example: .tK Janith66°
+🔰 Command: °.ss°
 ➢ Description: °Take screenshot of given links°
-🖲️ Command: °.mod°
+🔰 Command: °.mod°
 ➢ Description: °Search modded apk in Moddroid site.°
-🖲️ Command: °.spoti°
+🔰 Command: °.spoti°
 ➢ Description: °Search songs from spotify.°
-🖲️ Command: °.animesay°
-➢ Description: °🖲️➢ Write text on anime girl s paper°
-🖲️ Command: °.changesay°
+🔰 Command: °.animesay°
+➢ Description: °🔰➢ Write text on anime girl s paper°
+🔰 Command: °.changesay°
 ➢ Description: °Weite chaged my mind themed memes°
-🖲️ Command: °.trumpsay°
-➢ Description: °🖲️➢ Write text on Trump Twitter°
-🖲️ Command: °.spotify°
+🔰 Command: °.trumpsay°
+➢ Description: °🔰➢ Write text on Trump Twitter°
+🔰 Command: °.spotify°
 ➢ Description: °Download spotify songs.°
-🖲️ Command: °.sticker°
+🔰 Command: °.sticker°
 ➢ Description: °Make stickers to your images. Reply to an image.°
-🖲️ Command: °.sticvid°
-➢ Description: °🖲️➢ Converts animated stickers to video.°
-🖲️ Command: °.alive°
+🔰 Command: °.sticvid°
+➢ Description: °🔰➢ Converts animated stickers to video.°
+🔰 Command: °.alive°
 ➢ Description: °Check bot online or not°
-🖲️ Command: °.version°
+🔰 Command: °.version°
 ➢ Description: °Check version of bot.°
-🖲️ Command: °.tagadmin°
+🔰 Command: °.tagadmin°
 ➢ Description: °Tag all group admins.°
-🖲️ Command: °.tblend°
+🔰 Command: °.tblend°
 ➢ Description: °Applies the selected TBlend effect to videos.°
-🖲️ Command: °.carbon°
+🔰 Command: °.carbon°
 ➢ Description: °Convert text into Carbon effect°
-🖲️ Command: °.tgm°
+🔰 Command: °.tgm°
 ➢ Description: °it sends good morning text message°
-🖲️ Command: °.tgn°
+🔰 Command: °.tgn°
 ➢ Description: °it sends good night text message°
-🖲️ Command: °.ttp°
+🔰 Command: °.ttp°
 ➢ Description: °Make text image°
-🖲️ Command: °.attp°
+🔰 Command: °.attp°
 ➢ Description: °Make animated text stickers in Rainbow theme°
-🖲️ Command: °.unaudio°
+🔰 Command: °.unaudio°
 ➢ Description: °Converts sound recording to an audio File.°
-🖲️ Command: °.unvoice°
+🔰 Command: °.unvoice°
 ➢ Description: °Convert mp3 into a WA voice message°
-🖲️ Command: °.vid2°
+🔰 Command: °.vid2°
 ➢ Description: °Youtube Video Downloader V2 . යූ ටියුබ් වීඩියෝ ඩව්න්ලෝඩ් කිරීමට දෙවන මග... .°
-🖲️ Command: °.weather°
+🔰 Command: °.weather°
 ➢ Description: °Check weather.°
-🖲️ Command: °.speedtest°
+🔰 Command: °.speedtest°
 ➢ Description: °Check download and upload speed°
-🖲️ Command: °.ping°
+🔰 Command: °.ping°
 ➢ Description: °Your ping.°
-🖲️ Command: °.short°
+🔰 Command: °.short°
 ➢ Description: °Shorten link.°
 `, rowId:"rowid3"},
         {title: '⎝🛡️ Love Pack 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
@@ -403,105 +403,105 @@ Example : .covid Sri Lanka°
         {title: '⎝🛡️ FF PACK 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
 ║         ⎝🛡️ ALPHA 🛡️⎠  
-║         ║🖲️╚FF PACK╝🖲️║
+║         ║🔰╚FF PACK╝🔰║
 ║
-╠═➢ 🖲️.ff9       ❴your text❵
+╠═➢ 🔰.ff9       ❴your text❵
 ║send fiee fire logo
-╠═➢ 🖲️.ff10      ❴your text❵
+╠═➢ 🔰.ff10      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff11      ❴your text❵
+╠═➢ 🔰.ff11      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff12      ❴your text❵
+╠═➢ 🔰.ff12      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff13      ❴your text❵
+╠═➢ 🔰.ff13      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff14      ❴your text❵
+╠═➢ 🔰.ff14      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff15      ❴your text❵
+╠═➢ 🔰.ff15      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff16      ❴your text❵
+╠═➢ 🔰.ff16      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff17      ❴your text❵
+╠═➢ 🔰.ff17      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff18       ❴your text❵
+╠═➢ 🔰.ff18       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff19       ❴your text❵
+╠═➢ 🔰.ff19       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff20       ❴your text❵
+╠═➢ 🔰.ff20       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff21       ❴your text❵
+╠═➢ 🔰.ff21       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff22       ❴your text❵
+╠═➢ 🔰.ff22       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff23       ❴your text❵
+╠═➢ 🔰.ff23       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff24       ❴your text❵
+╠═➢ 🔰.ff24       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff25       ❴your text❵
+╠═➢ 🔰.ff25       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff26       ❴your text❵
+╠═➢ 🔰.ff26       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff27       ❴your text❵
+╠═➢ 🔰.ff27       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff28       ❴your text❵
+╠═➢ 🔰.ff28       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff29       ❴your text❵
+╠═➢ 🔰.ff29       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff30       ❴your text❵
+╠═➢ 🔰.ff30       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff31       ❴your text❵
+╠═➢ 🔰.ff31       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff32       ❴your text❵
+╠═➢ 🔰.ff32       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff33       ❴your text❵
+╠═➢ 🔰.ff33       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff34       ❴your text❵
+╠═➢ 🔰.ff34       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff35       ❴your text❵
+╠═➢ 🔰.ff35       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff36       ❴your text❵
+╠═➢ 🔰.ff36       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff37       ❴your text❵
+╠═➢ 🔰.ff37       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff38       ❴your text❵
+╠═➢ 🔰.ff38       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff39       ❴your text❵
+╠═➢ 🔰.ff39       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff41       ❴your text❵
+╠═➢ 🔰.ff41       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff42       ❴your text❵
+╠═➢ 🔰.ff42       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff43       ❴your text❵
+╠═➢ 🔰.ff43       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff44       ❴your text❵
+╠═➢ 🔰.ff44       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff45       ❴your text❵
+╠═➢ 🔰.ff45       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff46       ❴your text❵
+╠═➢ 🔰.ff46       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff47       ❴your text❵
+╠═➢ 🔰.ff47       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff48       ❴your text❵
+╠═➢ 🔰.ff48       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff49       ❴your text❵
+╠═➢ 🔰.ff49       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff50       ❴your text❵
+╠═➢ 🔰.ff50       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff51       ❴your text❵
+╠═➢ 🔰.ff51       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff52       ❴your text❵
+╠═➢ 🔰.ff52       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff53       ❴your text❵
+╠═➢ 🔰.ff53       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff54       ❴your text❵
+╠═➢ 🔰.ff54       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff55       ❴your text❵
+╠═➢ 🔰.ff55       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff56       ❴your text❵
+╠═➢ 🔰.ff56       ❴your text❵
 ║send free fire logo
 ║
 ║
@@ -512,7 +512,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Software Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╭───────────────
-│  🖲️ SOFTWARE STORE BY ACHI BRO LK 🖲️
+│  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │  ◎Adobe Editing Softwares type =.adobe
 │  ◎Wondershare Softwares type =.ws
@@ -521,14 +521,14 @@ Example : .covid Sri Lanka°
 │  ◎Office Softwares type =.office   
 │  ◎Android Emulator Form Pc =.em
 │
-│         🖲️POWERD BY🖲️
+│         🔰POWERD BY🔰
 │        ⎝🛡️ ALPHA 🛡️⎠
 ╰──────────────
 
 `, rowId:"rowid20"},
         {title: '⎝🛡️ DOWNLOADER 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╭────────────────
- │   🖲️  Downloader 🖲️
+ │   🔰  Downloader 🔰
  │
  │▷ .video { vid link }
  │▷ .mp4 { vid name }
@@ -545,20 +545,20 @@ Example : .covid Sri Lanka°
  ╰────────────────
 `, rowId:"rowid9"},
         {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
-🖲️ Developer : Achi Fernando (Achiya)
-🖲️ Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
-🖲️ Language : Sinhala & English
-🖲️ Sponcer Team : PEARL TEAM SRI LANKA
-🖲️ Develop language : Node js
-🖲️ Developer no : http://wa.me/+94720603183
+🔰 Developer : Achi Fernando (Janith)
+🔰 Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
+🔰 Language : Sinhala & English
+🔰 Sponcer Team : PEARL TEAM SRI LANKA
+🔰 Develop language : Node js
+🔰 Developer no : http://wa.me/+94720603183
 `, rowId:"rowid2"}
        ]
        
-       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛", rows: rows}]
+       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL. 📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: `⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛`,
+        description: `⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL. 📛`,
         sections: sections,
         listType: 1
        }
@@ -598,11 +598,11 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │Time⌚` + time + `
  │
  │   My Bot Work as
- │🖲️ `+Config.WORKTYPE+` 🖲️
+ │🔰 `+Config.WORKTYPE+` 🔰
  │
  ╰────────────────
  ╭────────────────
- │       🖲️  BOT  🖲️ 
+ │       🔰  BOT  🔰 
  │        ──────────
  │
  │▷ .alpha
@@ -612,7 +612,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │    🖲️  Sticker 🖲️ 
+ │    🔰  Sticker 🔰 
  │
  │▷ .attp { text }
  │▷ .sticker
@@ -620,7 +620,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │     🖲️ Uploder 🖲️
+ │     🔰 Uploder 🔰
  │
  │▷ .uploadp [ reply a photo ]
  │▷ .uploadv [ reply a video ]
@@ -632,7 +632,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       5mb source
  ╰────────────────
  ╭────────────────
- │ 🖲️ Text To Img 🖲️ 
+ │ 🔰 Text To Img 🔰 
  │
  │▷ .attppack
  │▷ .ffpack
@@ -646,7 +646,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │  🖲️ Downloader 🖲️
+ │  🔰 Downloader 🔰
  │
  │▷ .video { vid link }
  │▷ .mp4 { vid name }
@@ -662,7 +662,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │     🖲️ Groups 🖲️ 
+ │     🔰 Groups 🔰 
  │
  │▷ .grp
  │▷ .rules
@@ -689,7 +689,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │ 🖲️ Software Store 🖲️
+ │ 🔰 Software Store 🔰
  │
  │▷ .Softstore
  │ 
@@ -697,7 +697,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │  🖲️ For owner 🖲️
+ │  🔰 For owner 🔰
  │
  │▷ .name { change name }
  │▷ .pp { cha profilr pic}
@@ -710,7 +710,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │      Alpha BOT
  ╰────────────────
  ╭────────────────
- │   🖲️ Search 🖲️ 
+ │   🔰 Search 🔰 
  │
  │▷ .yt { text }
  │▷ .spoti { text }
@@ -722,7 +722,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │🖲️ Media Editor🖲️
+ │🔰 Media Editor🔰
  │
  │▷ .xmedia
  │▷ .tblend
@@ -737,14 +737,14 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │    🖲️ Random 🖲️
+ │    🔰 Random 🔰
  │
  │▷ .quote
  │▷ .anime
  │
  ╰────────────────
  ╭────────────────
- │       🖲️ Fun 🖲️ 
+ │       🔰 Fun 🔰 
  │
  │▷ .gm
  │▷ .agm
@@ -757,7 +757,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
  ╭────────────────
- │      🖲️ Other 🖲️ 
+ │      🔰 Other 🔰 
  │
  │▷ .ss { link }
  │▷ .afk { bot is online }
@@ -771,153 +771,153 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │▷ .covid
  ╰────────────────
  
-          🖲️ POWERD BY 🖲️
+          🔰 POWERD BY 🔰
           ⎝🛡️ ALPHA 🛡️⎠
-     🖲️       Achiya        🖲️
+     🔰       Janith        🔰
 ` , rowId:"rowid1"},
         {title: '⎝🛡️ ADVANCE MENU 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
          ⎝🛡️ ALPHA 🛡️⎠ 
 ═════════════════════════
-🖲️ Command: °.xmedia°
+🔰 Command: °.xmedia°
 ➢ Description: °A plugin that have 25 media tools.°
-🖲️ Command: °.admin°
+🔰 Command: °.admin°
 ➢ Description: °To get the admin command list°
-🖲️ Command: °.alpha°
+🔰 Command: °.alpha°
 ➢ Description:°all commands°
-🖲️ Command: °.lovepack°
+🔰 Command: °.lovepack°
 ➢ Description: °Send Love message to gf/bf.°
-🖲️ Command; °.grp°
+🔰 Command; °.grp°
 ➢ Description: °Send Groups list°
-🖲️ Command: °.warn1,.warn2,.warn3,.warn4
+🔰 Command: °.warn1,.warn2,.warn3,.warn4
 ➢ Description: °Send Group Warm msg. Admin only Command°
-🖲️ Command: °.rules°
+🔰 Command: °.rules°
 *➢ Description: * °Send Group Rules°
-🖲️ Command: °.switch°
+🔰 Command: °.switch°
 ➢ Description: °Turn on/off chat bot.
 ⌨️ Example: To turn on AI chat, .switch CHAT_BOT:true
 To turn on AI chat, .switch CHAT_BOT:false
 (This is a only admin command)°
-🖲️ Command: °.anime°
+🔰 Command: °.anime°
 ➢ Description: °Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..°
-🖲️ Command: °.antispam°
+🔰 Command: °.antispam°
 ➢ Description: °This command for any emergency situation about any kind of WhatsApp SPAM in Group°
-🖲️ Command: °.mp3°
+🔰 Command: °.mp3°
 ➢ Description: °Convert mp4 into mp3.°
-🖲️ Command: °.photo°
-➢ Description: °🖲️➢ Convert sticker into an image.°
-🖲️ Command: °.ffmpeg°
+🔰 Command: °.photo°
+➢ Description: °🔰➢ Convert sticker into an image.°
+🔰 Command: °.ffmpeg°
 ➢ Description: °Apply ffmpeg filter to a video
 ⌨️ Example: .ffmpeg fade=in:0:30°
-🖲️ Command: °.gn°
+🔰 Command: °.gn°
 ➢ Description: °Send Gn wish with image.°
-🖲️ Command: °.gm°
+🔰 Command: °.gm°
 ➢ Description: °Send Gm wish with image.°
-🖲️ Command: °.info°
+🔰 Command: °.info°
 ➢ Description: °Show chat details°
-🖲️ Command: °.covid°
+🔰 Command: °.covid°
 ➢ Description: °Check information about Covid-19 of countries.
 Example : .covid Sri Lanka°
-🖲️ Command: °.meme°
+🔰 Command: °.meme°
 ➢ Description: °The photos you replied to are memes.°
-🖲️ Command: °.movie°
+🔰 Command: °.movie°
 ➢ Description: °Movies වල විස්තර ලබාදීම.°
-🖲️ Command: °.notes°
+🔰 Command: °.notes°
 ➢ Description: °Show your notes.°
-🖲️ Command: °.save°
+🔰 Command: °.save°
 ➢ Description: °Reply .save to a message or type .save <your_note>°
-🖲️ Command: °.deleteNotes°
+🔰 Command: °.deleteNotes°
 ➢ Description: °Clear your all notes.°
-🖲️ Command: °.ocr°
+🔰 Command: °.ocr°
 ➢ Description: °Scan your picture into text.°
-🖲️ Command: °.removebg°
+🔰 Command: °.removebg°
 ➢ Description: °Removing background of image.°
-🖲️ Command: °.report°
+🔰 Command: °.report°
 ➢ Description: °Report someone in the group to admins.°
-🖲️ Command: °.fsong°
+🔰 Command: °.fsong°
 ➢ Description: °Uploading file type songs.°
-🖲️ Command: °.song°
+🔰 Command: °.song°
 ➢ Description: °Uploading mp3 type songs.°
-🖲️ Command: °.video°
+🔰 Command: °.video°
 ➢ Description: °Downloading videos from YouTube°
-🖲️ Command: °.insta°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
-🖲️ Command: °.fb°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
-🖲️ Command: °.trt°
+🔰 Command: °.insta°
+➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
+🔰 Command: °.fb°
+➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
+🔰 Command: °.trt°
 ➢ Description: °It translates with Google Translator. You must mention any message.°
 ⌨️ Example: °.trt en si (From English to Sinhala)°
-🖲️ Command: °.spdf°
+🔰 Command: °.spdf°
 ➢ Description: °Converts a Site into PDF°
-🖲️ Command: °.quote°
+🔰 Command: °.quote°
 ➢ Description: °It Sends Random Quote°
-🖲️ Command: °.currency°
+🔰 Command: °.currency°
 ➢ Description: °To convert currencies.°
-🖲️ Command: °.tts°
+🔰 Command: °.tts°
 ➢ Description: °It translates words into voice messages.°
-🖲️ Command: °.yt°
+🔰 Command: °.yt°
 ➢ Description: °Searchng videos on YouTube.°
-🖲️ Command: °.wiki°
+🔰 Command: °.wiki°
 ➢ Description: °Search Wikipedia.°
-🖲️ Command: °.img°
+🔰 Command: °.img°
 ➢ Description: °Downloading google images.°
-🖲️ Command: °.wame°
+🔰 Command: °.wame°
 ➢ Description: °Get a link to the user chat.°
-🖲️ Command: °.github°
+🔰 Command: °.github°
 ➢ Description: °Stalk github profiles of given username.
 ⌨️ Example: .github TRex°
-🖲️ Command: °.tk°
+🔰 Command: °.tk°
 ➢ Description: °Stalk tiktok profile to a given username.
-⌨️ Example: .tK Achiya66°
-🖲️ Command: °.ss°
+⌨️ Example: .tK Janith66°
+🔰 Command: °.ss°
 ➢ Description: °Take screenshot of given links°
-🖲️ Command: °.mod°
+🔰 Command: °.mod°
 ➢ Description: °Search modded apk in Moddroid site.°
-🖲️ Command: °.spoti°
+🔰 Command: °.spoti°
 ➢ Description: °Search songs from spotify.°
-🖲️ Command: °.animesay°
-➢ Description: °🖲️➢ Write text on anime girl s paper°
-🖲️ Command: °.changesay°
+🔰 Command: °.animesay°
+➢ Description: °🔰➢ Write text on anime girl s paper°
+🔰 Command: °.changesay°
 ➢ Description: °Weite chaged my mind themed memes°
-🖲️ Command: °.trumpsay°
-➢ Description: °🖲️➢ Write text on Trump Twitter°
-🖲️ Command: °.spotify°
+🔰 Command: °.trumpsay°
+➢ Description: °🔰➢ Write text on Trump Twitter°
+🔰 Command: °.spotify°
 ➢ Description: °Download spotify songs.°
-🖲️ Command: °.sticker°
+🔰 Command: °.sticker°
 ➢ Description: °Make stickers to your images. Reply to an image.°
-🖲️ Command: °.sticvid°
-➢ Description: °🖲️➢ Converts animated stickers to video.°
-🖲️ Command: °.alive°
+🔰 Command: °.sticvid°
+➢ Description: °🔰➢ Converts animated stickers to video.°
+🔰 Command: °.alive°
 ➢ Description: °Check bot online or not°
-🖲️ Command: °.version°
+🔰 Command: °.version°
 ➢ Description: °Check version of bot.°
-🖲️ Command: °.tagadmin°
+🔰 Command: °.tagadmin°
 ➢ Description: °Tag all group admins.°
-🖲️ Command: °.tblend°
+🔰 Command: °.tblend°
 ➢ Description: °Applies the selected TBlend effect to videos.°
-🖲️ Command: °.carbon°
+🔰 Command: °.carbon°
 ➢ Description: °Convert text into Carbon effect°
-🖲️ Command: °.tgm°
+🔰 Command: °.tgm°
 ➢ Description: °it sends good morning text message°
-🖲️ Command: °.tgn°
+🔰 Command: °.tgn°
 ➢ Description: °it sends good night text message°
-🖲️ Command: °.ttp°
+🔰 Command: °.ttp°
 ➢ Description: °Make text image°
-🖲️ Command: °.attp°
+🔰 Command: °.attp°
 ➢ Description: °Make animated text stickers in Rainbow theme°
-🖲️ Command: °.unaudio°
+🔰 Command: °.unaudio°
 ➢ Description: °Converts sound recording to an audio File.°
-🖲️ Command: °.unvoice°
+🔰 Command: °.unvoice°
 ➢ Description: °Convert mp3 into a WA voice message°
-🖲️ Command: °.vid2°
+🔰 Command: °.vid2°
 ➢ Description: °Youtube Video Downloader V2 . යූ ටියුබ් වීඩියෝ ඩව්න්ලෝඩ් කිරීමට දෙවන මග... .°
-🖲️ Command: °.weather°
+🔰 Command: °.weather°
 ➢ Description: °Check weather.°
-🖲️ Command: °.speedtest°
+🔰 Command: °.speedtest°
 ➢ Description: °Check download and upload speed°
-🖲️ Command: °.ping°
+🔰 Command: °.ping°
 ➢ Description: °Your ping.°
-🖲️ Command: °.short°
+🔰 Command: °.short°
 ➢ Description: °Shorten link.°
 `, rowId:"rowid3"},
         {title: '⎝🛡️ Love Pack 🛡️⎠ ', description:`▷▷▷▷▷▷▷\n\n\n
@@ -952,105 +952,105 @@ Example : .covid Sri Lanka°
         {title: '⎝🛡️ FF PACK 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
 ║         ⎝🛡️ ALPHA 🛡️⎠  
-║         ║🖲️╚FF PACK╝🖲️║
+║         ║🔰╚FF PACK╝🔰║
 ║
-╠═➢ 🖲️.ff9       ❴your text❵
+╠═➢ 🔰.ff9       ❴your text❵
 ║send fiee fire logo
-╠═➢ 🖲️.ff10      ❴your text❵
+╠═➢ 🔰.ff10      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff11      ❴your text❵
+╠═➢ 🔰.ff11      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff12      ❴your text❵
+╠═➢ 🔰.ff12      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff13      ❴your text❵
+╠═➢ 🔰.ff13      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff14      ❴your text❵
+╠═➢ 🔰.ff14      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff15      ❴your text❵
+╠═➢ 🔰.ff15      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff16      ❴your text❵
+╠═➢ 🔰.ff16      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff17      ❴your text❵
+╠═➢ 🔰.ff17      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff18       ❴your text❵
+╠═➢ 🔰.ff18       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff19       ❴your text❵
+╠═➢ 🔰.ff19       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff20       ❴your text❵
+╠═➢ 🔰.ff20       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff21       ❴your text❵
+╠═➢ 🔰.ff21       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff22       ❴your text❵
+╠═➢ 🔰.ff22       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff23       ❴your text❵
+╠═➢ 🔰.ff23       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff24       ❴your text❵
+╠═➢ 🔰.ff24       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff25       ❴your text❵
+╠═➢ 🔰.ff25       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff26       ❴your text❵
+╠═➢ 🔰.ff26       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff27       ❴your text❵
+╠═➢ 🔰.ff27       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff28       ❴your text❵
+╠═➢ 🔰.ff28       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff29       ❴your text❵
+╠═➢ 🔰.ff29       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff30       ❴your text❵
+╠═➢ 🔰.ff30       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff31       ❴your text❵
+╠═➢ 🔰.ff31       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff32       ❴your text❵
+╠═➢ 🔰.ff32       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff33       ❴your text❵
+╠═➢ 🔰.ff33       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff34       ❴your text❵
+╠═➢ 🔰.ff34       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff35       ❴your text❵
+╠═➢ 🔰.ff35       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff36       ❴your text❵
+╠═➢ 🔰.ff36       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff37       ❴your text❵
+╠═➢ 🔰.ff37       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff38       ❴your text❵
+╠═➢ 🔰.ff38       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff39       ❴your text❵
+╠═➢ 🔰.ff39       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff41       ❴your text❵
+╠═➢ 🔰.ff41       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff42       ❴your text❵
+╠═➢ 🔰.ff42       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff43       ❴your text❵
+╠═➢ 🔰.ff43       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff44       ❴your text❵
+╠═➢ 🔰.ff44       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff45       ❴your text❵
+╠═➢ 🔰.ff45       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff46       ❴your text❵
+╠═➢ 🔰.ff46       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff47       ❴your text❵
+╠═➢ 🔰.ff47       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff48       ❴your text❵
+╠═➢ 🔰.ff48       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff49       ❴your text❵
+╠═➢ 🔰.ff49       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff50       ❴your text❵
+╠═➢ 🔰.ff50       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff51       ❴your text❵
+╠═➢ 🔰.ff51       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff52       ❴your text❵
+╠═➢ 🔰.ff52       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff53       ❴your text❵
+╠═➢ 🔰.ff53       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff54       ❴your text❵
+╠═➢ 🔰.ff54       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff55       ❴your text❵
+╠═➢ 🔰.ff55       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff56       ❴your text❵
+╠═➢ 🔰.ff56       ❴your text❵
 ║send free fire logo
 ║
 ║
@@ -1061,7 +1061,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid5"},
         {title: '⎝🛡️ Software Store 🛡️⎠ ', description:`▷▷▷▷▷▷\n\n\n
 ╭───────────────
-│  🖲️ SOFTWARE STORE BY ACHI BRO LK 🖲️
+│  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │  ◎Adobe Editing Softwares type =.adobe
 │  ◎Wondershare Softwares type =.ws
@@ -1070,14 +1070,14 @@ Example : .covid Sri Lanka°
 │  ◎Office Softwares type =.office   
 │  ◎Android Emulator Form Pc =.em
 │
-│         🖲️POWERD BY🖲️
+│         🔰POWERD BY🔰
 │        ⎝🛡️ ALPHA 🛡️⎠
 ╰──────────────
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Apk Store 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
 ║         ⎝🛡️ ALPHA 🛡️⎠   
-║        ║🖲️╚APK STORE╝🖲️║
+║        ║🔰╚APK STORE╝🔰║
 ║
 ║    Coming Soon
 ║
@@ -1087,7 +1087,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid20"},
         {title: '⎝🛡️ DOWNLOADER 🛡️⎠ ', description:`▷▷▷▷▷▷\n\n\n
  ╭────────────────
- │   🖲️  Downloader 🖲️
+ │   🔰  Downloader 🔰
  │
  │▷ .video { vid link }
  │▷ .mp4 { vid name }
@@ -1104,25 +1104,25 @@ Example : .covid Sri Lanka°
  ╰────────────────
 `, rowId:"rowid8"},
         {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
-🖲️ Developer : Achiya
-🖲️ Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
-🖲️ Language : Sinhala & English
-🖲️ Sponcer Team : PEARL TEAM SRI LANKA
-🖲️ Develop language : Node js
-🖲️ Developer no : http://wa.me/+94720603183
+🔰 Developer : Janith
+🔰 Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
+🔰 Language : Sinhala & English
+🔰 Sponcer Team : PEARL TEAM SRI LANKA
+🔰 Develop language : Node js
+🔰 Developer no : http://wa.me/+94720603183
 `, rowId:"rowid9"},
         {title: '⎝🛡️ ADMIN PANEL 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
-⎝🛡️ ALPHA 🛡️⎠\n\n🖲️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🖲️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🖲️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🖲️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🖲️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🖲️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🖲️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🖲️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🖲️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ⎝🛡️ ALPHA 🛡️⎠.\n\n🖲️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🖲️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🖲️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🖲️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🖲️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🖲️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🖲️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🖲️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🖲️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🖲️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🖲️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🖲️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🖲️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🖲️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🖲️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🖲️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🖲️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🖲️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🖲️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🖲️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🖲️ COMMAND: *.upalpha*\nℹ️ DESCRIPTION: To update your bot.\n\n🖲️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🖲️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🖲️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🖲️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🖲️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🖲️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🖲️ Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n🖲️ Command: .public ▷ Description: set bot as public\n\n 🖲️ Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n⎝🛡️ ALPHA 🛡️⎠*
+⎝🛡️ ALPHA 🛡️⎠\n\n🔰 COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🔰 COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🔰 COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🔰 COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🔰 COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🔰 COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🔰 COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🔰 COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🔰 COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ⎝🛡️ ALPHA 🛡️⎠.\n\n🔰 COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🔰 COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🔰 COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🔰 COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🔰 COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🔰 COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🔰 COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🔰 COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🔰 COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🔰 COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🔰 COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🔰 COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🔰 COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🔰 COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🔰 COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🔰 COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🔰 COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🔰 COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🔰 COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🔰 COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🔰 COMMAND: *.upalpha*\nℹ️ DESCRIPTION: To update your bot.\n\n🔰 COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🔰 COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🔰 COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🔰 COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🔰 COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🔰 COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🔰 Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n🔰 Command: .public ▷ Description: set bot as public\n\n 🔰 Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n⎝🛡️ ALPHA 🛡️⎠*
 `, rowId:"rowid10"},
         {title: '⎝🛡️ Work Type PUBLIC 🛡️⎠', description: "▷▷▷▷▷▷\n\n\n Type .public to public mode ▷", rowId:"rowid9"},
         {title: '⎝🛡️ Work Type PRIVATE🛡️⎠', description:"▷▷▷▷▷▷\n\n\n Type .private to private mode ▷", rowId:"rowid2"}
        ]
        
-       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛", rows: rows}]
+       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL. 📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: `⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛`,
+        description: `⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL. 📛`,
         sections: sections,
         listType: 1
        }
@@ -1169,11 +1169,11 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │Time⌚` + time + `
  │
  │   My Bot Work as
- │🖲️ `+Config.WORKTYPE+` 🖲️
+ │🔰 `+Config.WORKTYPE+` 🔰
  │
  ╰────────────────
  ╭────────────────
- │       🖲️  BOT  🖲️ 
+ │       🔰  BOT  🔰 
  │        ──────────
  │
  │▷ .alpha
@@ -1183,7 +1183,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │    🖲️  Sticker 🖲️ 
+ │    🔰  Sticker 🔰 
  │
  │▷ .attp { text }
  │▷ .sticker
@@ -1191,7 +1191,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │     🖲️ Uploder 🖲️
+ │     🔰 Uploder 🔰
  │
  │▷ .uploadp [ reply a photo ]
  │▷ .uploadv [ reply a video ]
@@ -1203,7 +1203,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       5mb source
  ╰────────────────
  ╭────────────────
- │ 🖲️ Text To Img 🖲️ 
+ │ 🔰 Text To Img 🔰 
  │
  │▷ .attppack
  │▷ .ffpack
@@ -1217,7 +1217,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │  🖲️ Downloader 🖲️
+ │  🔰 Downloader 🔰
  │
  │▷ .video { vid link }
  │▷ .mp4 { vid name }
@@ -1233,7 +1233,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │     🖲️ Groups 🖲️ 
+ │     🔰 Groups 🔰 
  │
  │▷ .grp
  │▷ .rules
@@ -1260,7 +1260,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │ 🖲️ Software Store 🖲️
+ │ 🔰 Software Store 🔰
  │
  │▷ .Softstore
  │ 
@@ -1268,7 +1268,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │  🖲️ For owner 🖲️
+ │  🔰 For owner 🔰
  │
  │▷ .name { change name }
  │▷ .pp { cha profilr pic}
@@ -1281,7 +1281,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │      Alpha BOT
  ╰────────────────
  ╭────────────────
- │   🖲️ Search 🖲️ 
+ │   🔰 Search 🔰 
  │
  │▷ .yt { text }
  │▷ .spoti { text }
@@ -1293,7 +1293,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │🖲️ Media Editor🖲️
+ │🔰 Media Editor🔰
  │
  │▷ .xmedia
  │▷ .tblend
@@ -1308,14 +1308,14 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │    🖲️ Random 🖲️
+ │    🔰 Random 🔰
  │
  │▷ .quote
  │▷ .anime
  │
  ╰────────────────
  ╭────────────────
- │       🖲️ Fun 🖲️ 
+ │       🔰 Fun 🔰 
  │
  │▷ .gm
  │▷ .agm
@@ -1328,7 +1328,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
  ╭────────────────
- │      🖲️ Other 🖲️ 
+ │      🔰 Other 🔰 
  │
  │▷ .ss { link }
  │▷ .afk { bot is online }
@@ -1342,153 +1342,153 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │▷ .covid
  ╰────────────────
  
-          🖲️ POWERD BY 🖲️
+          🔰 POWERD BY 🔰
           ⎝🛡️ ALPHA 🛡️⎠
-     🖲️       Achiya        🖲️
+     🔰       Janith        🔰
 ` , rowId:"rowid1"},
         {title: '⎝🛡️ ADVANCE MENU 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
          ⎝🛡️ ALPHA 🛡️⎠ 
 ═════════════════════════
-🖲️ Command: °.xmedia°
+🔰 Command: °.xmedia°
 ➢ Description: °A plugin that have 25 media tools.°
-🖲️ Command: °.admin°
+🔰 Command: °.admin°
 ➢ Description: °To get the admin command list°
-🖲️ Command: °.alpha°
+🔰 Command: °.alpha°
 ➢ Description:°all commands°
-🖲️ Command: °.lovepack°
+🔰 Command: °.lovepack°
 ➢ Description: °Send Love message to gf/bf.°
-🖲️ Command; °.grp°
+🔰 Command; °.grp°
 ➢ Description: °Send Groups list°
-🖲️ Command: °.warn1,.warn2,.warn3,.warn4
+🔰 Command: °.warn1,.warn2,.warn3,.warn4
 ➢ Description: °Send Group Warm msg. Admin only Command°
-🖲️ Command: °.rules°
+🔰 Command: °.rules°
 *➢ Description: * °Send Group Rules°
-🖲️ Command: °.switch°
+🔰 Command: °.switch°
 ➢ Description: °Turn on/off chat bot.
 ⌨️ Example: To turn on AI chat, .switch CHAT_BOT:true
 To turn on AI chat, .switch CHAT_BOT:false
 (This is a only admin command)°
-🖲️ Command: °.anime°
+🔰 Command: °.anime°
 ➢ Description: °Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..°
-🖲️ Command: °.antispam°
+🔰 Command: °.antispam°
 ➢ Description: °This command for any emergency situation about any kind of WhatsApp SPAM in Group°
-🖲️ Command: °.mp3°
+🔰 Command: °.mp3°
 ➢ Description: °Convert mp4 into mp3.°
-🖲️ Command: °.photo°
-➢ Description: °🖲️➢ Convert sticker into an image.°
-🖲️ Command: °.ffmpeg°
+🔰 Command: °.photo°
+➢ Description: °🔰➢ Convert sticker into an image.°
+🔰 Command: °.ffmpeg°
 ➢ Description: °Apply ffmpeg filter to a video
 ⌨️ Example: .ffmpeg fade=in:0:30°
-🖲️ Command: °.gn°
+🔰 Command: °.gn°
 ➢ Description: °Send Gn wish with image.°
-🖲️ Command: °.gm°
+🔰 Command: °.gm°
 ➢ Description: °Send Gm wish with image.°
-🖲️ Command: °.info°
+🔰 Command: °.info°
 ➢ Description: °Show chat details°
-🖲️ Command: °.covid°
+🔰 Command: °.covid°
 ➢ Description: °Check information about Covid-19 of countries.
 Example : .covid Sri Lanka°
-🖲️ Command: °.meme°
+🔰 Command: °.meme°
 ➢ Description: °The photos you replied to are memes.°
-🖲️ Command: °.movie°
+🔰 Command: °.movie°
 ➢ Description: °Movies වල විස්තර ලබාදීම.°
-🖲️ Command: °.notes°
+🔰 Command: °.notes°
 ➢ Description: °Show your notes.°
-🖲️ Command: °.save°
+🔰 Command: °.save°
 ➢ Description: °Reply .save to a message or type .save <your_note>°
-🖲️ Command: °.deleteNotes°
+🔰 Command: °.deleteNotes°
 ➢ Description: °Clear your all notes.°
-🖲️ Command: °.ocr°
+🔰 Command: °.ocr°
 ➢ Description: °Scan your picture into text.°
-🖲️ Command: °.removebg°
+🔰 Command: °.removebg°
 ➢ Description: °Removing background of image.°
-🖲️ Command: °.report°
+🔰 Command: °.report°
 ➢ Description: °Report someone in the group to admins.°
-🖲️ Command: °.fsong°
+🔰 Command: °.fsong°
 ➢ Description: °Uploading file type songs.°
-🖲️ Command: °.song°
+🔰 Command: °.song°
 ➢ Description: °Uploading mp3 type songs.°
-🖲️ Command: °.video°
+🔰 Command: °.video°
 ➢ Description: °Downloading videos from YouTube°
-🖲️ Command: °.insta°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
-🖲️ Command: °.fb°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
-🖲️ Command: °.trt°
+🔰 Command: °.insta°
+➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
+🔰 Command: °.fb°
+➢ Description: °🔰➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
+🔰 Command: °.trt°
 ➢ Description: °It translates with Google Translator. You must mention any message.°
 ⌨️ Example: °.trt en si (From English to Sinhala)°
-🖲️ Command: °.spdf°
+🔰 Command: °.spdf°
 ➢ Description: °Converts a Site into PDF°
-🖲️ Command: °.quote°
+🔰 Command: °.quote°
 ➢ Description: °It Sends Random Quote°
-🖲️ Command: °.currency°
+🔰 Command: °.currency°
 ➢ Description: °To convert currencies.°
-🖲️ Command: °.tts°
+🔰 Command: °.tts°
 ➢ Description: °It translates words into voice messages.°
-🖲️ Command: °.yt°
+🔰 Command: °.yt°
 ➢ Description: °Searchng videos on YouTube.°
-🖲️ Command: °.wiki°
+🔰 Command: °.wiki°
 ➢ Description: °Search Wikipedia.°
-🖲️ Command: °.img°
+🔰 Command: °.img°
 ➢ Description: °Downloading google images.°
-🖲️ Command: °.wame°
+🔰 Command: °.wame°
 ➢ Description: °Get a link to the user chat.°
-🖲️ Command: °.github°
+🔰 Command: °.github°
 ➢ Description: °Stalk github profiles of given username.
-⌨️ Example: .github TRex°
-🖲️ Command: °.tk°
+⌨️ Example: .github Janithsadanuwan°
+🔰 Command: °.tk°
 ➢ Description: °Stalk tiktok profile to a given username.
-⌨️ Example: .tK Achiya66°
-🖲️ Command: °.ss°
+⌨️ Example: .tK Janith66°
+🔰 Command: °.ss°
 ➢ Description: °Take screenshot of given links°
-🖲️ Command: °.mod°
+🔰 Command: °.mod°
 ➢ Description: °Search modded apk in Moddroid site.°
-🖲️ Command: °.spoti°
+🔰 Command: °.spoti°
 ➢ Description: °Search songs from spotify.°
-🖲️ Command: °.animesay°
-➢ Description: °🖲️➢ Write text on anime girl s paper°
-🖲️ Command: °.changesay°
+🔰 Command: °.animesay°
+➢ Description: °🔰➢ Write text on anime girl s paper°
+🔰 Command: °.changesay°
 ➢ Description: °Weite chaged my mind themed memes°
-🖲️ Command: °.trumpsay°
-➢ Description: °🖲️➢ Write text on Trump Twitter°
-🖲️ Command: °.spotify°
+🔰 Command: °.trumpsay°
+➢ Description: °🔰➢ Write text on Trump Twitter°
+🔰 Command: °.spotify°
 ➢ Description: °Download spotify songs.°
-🖲️ Command: °.sticker°
+🔰 Command: °.sticker°
 ➢ Description: °Make stickers to your images. Reply to an image.°
-🖲️ Command: °.sticvid°
-➢ Description: °🖲️➢ Converts animated stickers to video.°
-🖲️ Command: °.alive°
+🔰 Command: °.sticvid°
+➢ Description: °🔰➢ Converts animated stickers to video.°
+🔰 Command: °.alive°
 ➢ Description: °Check bot online or not°
-🖲️ Command: °.version°
+🔰 Command: °.version°
 ➢ Description: °Check version of bot.°
-🖲️ Command: °.tagadmin°
+🔰 Command: °.tagadmin°
 ➢ Description: °Tag all group admins.°
-🖲️ Command: °.tblend°
+🔰 Command: °.tblend°
 ➢ Description: °Applies the selected TBlend effect to videos.°
-🖲️ Command: °.carbon°
+🔰 Command: °.carbon°
 ➢ Description: °Convert text into Carbon effect°
-🖲️ Command: °.tgm°
+🔰 Command: °.tgm°
 ➢ Description: °it sends good morning text message°
-🖲️ Command: °.tgn°
+🔰 Command: °.tgn°
 ➢ Description: °it sends good night text message°
-🖲️ Command: °.ttp°
+🔰 Command: °.ttp°
 ➢ Description: °Make text image°
-🖲️ Command: °.attp°
+🔰 Command: °.attp°
 ➢ Description: °Make animated text stickers in Rainbow theme°
-🖲️ Command: °.unaudio°
+🔰 Command: °.unaudio°
 ➢ Description: °Converts sound recording to an audio File.°
-🖲️ Command: °.unvoice°
+🔰 Command: °.unvoice°
 ➢ Description: °Convert mp3 into a WA voice message°
-🖲️ Command: °.vid2°
+🔰 Command: °.vid2°
 ➢ Description: °Youtube Video Downloader V2 . යූ ටියුබ් වීඩියෝ ඩව්න්ලෝඩ් කිරීමට දෙවන මග... .°
-🖲️ Command: °.weather°
+🔰 Command: °.weather°
 ➢ Description: °Check weather.°
-🖲️ Command: °.speedtest°
+🔰 Command: °.speedtest°
 ➢ Description: °Check download and upload speed°
-🖲️ Command: °.ping°
+🔰 Command: °.ping°
 ➢ Description: °Your ping.°
-🖲️ Command: °.short°
+🔰 Command: °.short°
 ➢ Description: °Shorten link.°
 `, rowId:"rowid3"},
         {title: '⎝🛡️ Love Pack 🛡️⎠ ', description:`▷▷▷▷▷▷\n\n\n
@@ -1522,105 +1522,105 @@ Example : .covid Sri Lanka°
         {title: '⎝🛡️ FF PACK 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
 ║         ⎝🛡️ ALPHA 🛡️⎠  
-║         ║🖲️╚FF PACK╝🖲️║
+║         ║🔰╚FF PACK╝🔰║
 ║
-╠═➢ 🖲️.ff9       ❴your text❵
+╠═➢ 🔰.ff9       ❴your text❵
 ║send fiee fire logo
-╠═➢ 🖲️.ff10      ❴your text❵
+╠═➢ 🔰.ff10      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff11      ❴your text❵
+╠═➢ 🔰.ff11      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff12      ❴your text❵
+╠═➢ 🔰.ff12      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff13      ❴your text❵
+╠═➢ 🔰.ff13      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff14      ❴your text❵
+╠═➢ 🔰.ff14      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff15      ❴your text❵
+╠═➢ 🔰.ff15      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff16      ❴your text❵
+╠═➢ 🔰.ff16      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff17      ❴your text❵
+╠═➢ 🔰.ff17      ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff18       ❴your text❵
+╠═➢ 🔰.ff18       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff19       ❴your text❵
+╠═➢ 🔰.ff19       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff20       ❴your text❵
+╠═➢ 🔰.ff20       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff21       ❴your text❵
+╠═➢ 🔰.ff21       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff22       ❴your text❵
+╠═➢ 🔰.ff22       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff23       ❴your text❵
+╠═➢ 🔰.ff23       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff24       ❴your text❵
+╠═➢ 🔰.ff24       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff25       ❴your text❵
+╠═➢ 🔰.ff25       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff26       ❴your text❵
+╠═➢ 🔰.ff26       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff27       ❴your text❵
+╠═➢ 🔰.ff27       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff28       ❴your text❵
+╠═➢ 🔰.ff28       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff29       ❴your text❵
+╠═➢ 🔰.ff29       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff30       ❴your text❵
+╠═➢ 🔰.ff30       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff31       ❴your text❵
+╠═➢ 🔰.ff31       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff32       ❴your text❵
+╠═➢ 🔰.ff32       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff33       ❴your text❵
+╠═➢ 🔰.ff33       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff34       ❴your text❵
+╠═➢ 🔰.ff34       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff35       ❴your text❵
+╠═➢ 🔰.ff35       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff36       ❴your text❵
+╠═➢ 🔰.ff36       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff37       ❴your text❵
+╠═➢ 🔰.ff37       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff38       ❴your text❵
+╠═➢ 🔰.ff38       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff39       ❴your text❵
+╠═➢ 🔰.ff39       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff41       ❴your text❵
+╠═➢ 🔰.ff41       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff42       ❴your text❵
+╠═➢ 🔰.ff42       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff43       ❴your text❵
+╠═➢ 🔰.ff43       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff44       ❴your text❵
+╠═➢ 🔰.ff44       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff45       ❴your text❵
+╠═➢ 🔰.ff45       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff46       ❴your text❵
+╠═➢ 🔰.ff46       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff47       ❴your text❵
+╠═➢ 🔰.ff47       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff48       ❴your text❵
+╠═➢ 🔰.ff48       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff49       ❴your text❵
+╠═➢ 🔰.ff49       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff50       ❴your text❵
+╠═➢ 🔰.ff50       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff51       ❴your text❵
+╠═➢ 🔰.ff51       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff52       ❴your text❵
+╠═➢ 🔰.ff52       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff53       ❴your text❵
+╠═➢ 🔰.ff53       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff54       ❴your text❵
+╠═➢ 🔰.ff54       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff55       ❴your text❵
+╠═➢ 🔰.ff55       ❴your text❵
 ║send free fire logo
-╠═➢ 🖲️.ff56       ❴your text❵
+╠═➢ 🔰.ff56       ❴your text❵
 ║send free fire logo
 ║
 ║
@@ -1631,7 +1631,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid5"},
         {title: '⎝🛡️ Software Store 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╭───────────────
-│  🖲️ SOFTWARE STORE BY ACHI BRO LK 🖲️
+│  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │  ◎Adobe Editing Softwares type =.adobe
 │  ◎Wondershare Softwares type =.ws
@@ -1640,14 +1640,14 @@ Example : .covid Sri Lanka°
 │  ◎Office Softwares type =.office   
 │  ◎Android Emulator Form Pc =.em
 │
-│         🖲️POWERD BY🖲️
+│         🔰POWERD BY🔰
 │        ⎝🛡️ ALPHA 🛡️⎠
 ╰──────────────
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Apk Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
 ║         ⎝🛡️ ALPHA 🛡️⎠   
-║        ║🖲️╚APK STORE╝🖲️║
+║        ║🔰╚APK STORE╝🔰║
 ║
 ║    Coming Soon
 ║
@@ -1656,7 +1656,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid20"},
 {title: '⎝🛡️ DOWNLOADER 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
  ╭────────────────
- │   🖲️  Downloader 🖲️
+ │   🔰  Downloader 🔰
  │
  │▷ .video { vid link }
  │▷ .mp4 { vid name }
@@ -1673,25 +1673,25 @@ Example : .covid Sri Lanka°
  ╰────────────────
 `, rowId:"rowid8"},
         {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
-🖲️ Developer : Achi Fernando (Achiya)
-🖲️ Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
-🖲️ Language : Sinhala & English
-🖲️ Sponcer Team : PEARL TEAM SRI LANKA
-🖲️ Develop language : Node js
-🖲️ Developer no : http://wa.me/+94720603183
+🔰 Developer : Achi Fernando (Janith)
+🔰 Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
+🔰 Language : Sinhala & English
+🔰 Sponcer Team : PEARL TEAM SRI LANKA
+🔰 Develop language : Node js
+🔰 Developer no : http://wa.me/+94720603183
 `, rowId:"rowid9"},
         {title: '⎝🛡️ ADMIN PANEL 🛡️', description: `▷▷▷▷▷▷\n\n\n
-⎝🛡️ ALPHA 🛡️⎠\n\n🖲️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🖲️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🖲️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🖲️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🖲️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🖲️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🖲️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🖲️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🖲️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ⎝🛡️ ALPHA 🛡️⎠.\n\n🖲️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🖲️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🖲️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🖲️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🖲️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🖲️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🖲️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🖲️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🖲️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🖲️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🖲️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🖲️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🖲️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🖲️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🖲️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🖲️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🖲️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🖲️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🖲️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🖲️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🖲️ COMMAND: *.upalpha*\nℹ️ DESCRIPTION: To update your bot.\n\n🖲️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🖲️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🖲️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🖲️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🖲️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🖲️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🖲️ Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n🖲️ Command: .public ▷ Description: set bot as public\n\n 🖲️ Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n⎝🛡️ ALPHA 🛡️⎠*
+⎝🛡️ ALPHA 🛡️⎠\n\n🔰 COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🔰 COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🔰 COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🔰 COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🔰 COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🔰 COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🔰 COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🔰 COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🔰 COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ⎝🛡️ ALPHA 🛡️⎠.\n\n🔰 COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🔰 COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🔰 COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🔰 COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🔰 COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🔰 COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🔰 COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🔰 COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🔰 COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🔰 COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🔰 COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🔰 COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🔰 COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🔰 COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🔰 COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🔰 COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🔰 COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🔰 COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🔰 COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🔰 COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🔰 COMMAND: *.upalpha*\nℹ️ DESCRIPTION: To update your bot.\n\n🔰 COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🔰 COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🔰 COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🔰 COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🔰 COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🔰 COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🔰 Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n🔰 Command: .public ▷ Description: set bot as public\n\n 🔰 Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n⎝🛡️ ALPHA 🛡️⎠*
 `, rowId:"rowid10"},
         {title: '⎝🛡️ Work Type PUBLIC 🛡️⎠', description: "▷▷▷▷▷▷\n\n\nType .public to public mode", rowId:"rowid9"},
         {title: '⎝🛡️ Work Type PRIVATE 🛡️⎠', description:"▷▷▷▷▷▷\n\n\nType .private to private mode", rowId:"rowid2"}
        ]
        
-       const sections = [{title: " ⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL.📛", rows: rows}]
+       const sections = [{title: " ⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL.📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: ` ⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛`,
+        description: ` ⎝🛡️ ALPHA 🛡️⎠ CMD 🔰 PANEL. 📛`,
         sections: sections,
         listType: 1
        }
