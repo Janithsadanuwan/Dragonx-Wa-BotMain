@@ -1,4 +1,4 @@
-const DRAGONX = require('../events');
+const Trex = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../config');
 const axios = require("axios");

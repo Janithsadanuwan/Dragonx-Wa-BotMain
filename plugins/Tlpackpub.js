@@ -1,4 +1,4 @@
-Dragon-xDragon-xJanithconst Trex = require('../events');
+const Trex = require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
 const fs = require('fs');
 const axios = require('axios');
@@ -10,7 +10,7 @@ if (Config.WORKTYPE == 'public') {
    
    Trex.addrex({ pattern: 'tlpack', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 
-        var ttinullimage = await axios.get(`https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://telegra.ph/file/35883180004518cb15fe9.jpg`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔══════════════════════
 ║❌ 🍁*Dragon X LOGO PACK 1*🍁 ❌
@@ -117,7 +117,7 @@ if (Config.WORKTYPE == 'public') {
          topText = split[0];
       }
       
-      var sewimage = await axios.get(`https://leyscoders-api.herokuapp.com/api/welcome?name=${topText}&group=${bottomText}&profile=https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg&apikey=dappakntlll`, { responseType: 'arraybuffer' })
+      var sewimage = await axios.get(`https://leyscoders-api.herokuapp.com/api/welcome?name=${topText}&group=${bottomText}&profile=https://telegra.ph/file/35883180004518cb15fe9.jpg&apikey=dappakntlll`, { responseType: 'arraybuffer' })
       
       await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: Config.CAPTION+'\n\n   ❰🍁🔱 ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ BOT  🔱🍁❱  ',quoted: message.data})
    
@@ -132,7 +132,7 @@ if (Config.WORKTYPE == 'public') {
          topText = split[0];
       }
       
-      var sewimage = await axios.get(`https://leyscoders-api.herokuapp.com/api/leave?name=${topText}&group=${bottomText}&profile=https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg&apikey=dappakntlll`, { responseType: 'arraybuffer' })
+      var sewimage = await axios.get(`https://leyscoders-api.herokuapp.com/api/leave?name=${topText}&group=${bottomText}&profile=https://telegra.ph/file/35883180004518cb15fe9.jpg&apikey=dappakntlll`, { responseType: 'arraybuffer' })
       
       await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: Config.CAPTION+'\n\n   ❰🍁🔱 ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ BOT  🔱🍁❱  ',quoted: message.data})
    
