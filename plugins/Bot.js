@@ -17,18 +17,17 @@ if (Config.WORKTYPE == 'private') {
        
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 ⎝🛡️ DRAGONX 🛡️⎠ *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
 
-🍒   *Owner & Founder - Janith sadanuwan*
+🍒 *Owner & Founder - Janith sadanuwan*
+
+🍒 *Language - NODE JS*
+
+   🔱SPECIAL THANKS🔱
+
+🍁HIRUSHA RUKSHAN
+➢BOT BASE OWNER
 
 
-🍒   *Language - NODE JS*
-
-🔱 SPECIAL THANKS 🔱
-
-🍁 HIRUSHA RUKSHAN
-➢ BOT BASE OWNER
-
-
-🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
+   🔰*ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ*🔰`})
 
     }));
 }
@@ -39,17 +38,17 @@ else if (Config.WORKTYPE == 'public') {
           
             var image = await axios.get ('https://telegra.ph/file/35883180004518cb15fe9.jpg', {responseType: 'arraybuffer'})
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 ⎝🛡️ DRAGONX 🛡️⎠ *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
-        🍒   *Owner & Founder - Janith sadanuwan*
+🍒 *Owner & Founder - Janith sadanuwan*
 
-        🍒   *Language - NODE JS*
+🍒 *Language - NODE JS*
         
-        🔱 SPECIAL THANKS 🔱
-
-🍁 HIRUSHA RUKSHAN
-➢ BOT BASE OWNER
-
-
-           🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
+     🔱SPECIAL THANKS🔱
+        
+ 🍁HIRUSHA RUKSHAN
+➢BOT BASE OWNER
+        
+        
+    🔰*ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ*🔰`})
         
 
 
@@ -65,14 +64,13 @@ else if (Config.WORKTYPE == 'public') {
 
 🍒    *Language - NODE JS*
 
-🔱 SPECIAL THANKS 🔱
+    🔱SPECIAL THANKS🔱
 
 🍁 HIRUSHA RUKSHAN
 ➢ BOT BASE OWNER
 
 
-
-   🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰 `  ,quoted: message.data})
+    🔰*ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ*🔰 `  ,quoted: message.data})
 
     }));
 }
