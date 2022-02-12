@@ -105,7 +105,7 @@ ${chalk.blue.italic('⎝🛡️ Connecting to WhatsApp...▶')}`);
 
     conn.on('open', async () => {
         console.log(
-            chalk.green.bold('⎝🛡️  Login successful!▶')
+            chalk.green.bold('🚀  Login successful🚀')
         );
 
         console.log(
