@@ -27,8 +27,6 @@ if (Config.WORKTYPE == 'private') {
 🍁 HIRUSHA RUKSHAN
 ➢ BOT BASE OWNER
 
-🍁 BLACK AMDA
-➢ BOT BASE OWNER
 
 🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
 
@@ -50,8 +48,7 @@ else if (Config.WORKTYPE == 'public') {
 🍁 HIRUSHA RUKSHAN
 ➢ BOT BASE OWNER
 
-🍁 BLACK AMDA
-➢ BOT BASE OWNER
+
            🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
         
 
@@ -73,8 +70,7 @@ else if (Config.WORKTYPE == 'public') {
 🍁 HIRUSHA RUKSHAN
 ➢ BOT BASE OWNER
 
-🍁 BLACK AMDA
-➢ BOT BASE OWNER
+
 
    🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰 `  ,quoted: message.data})
 
