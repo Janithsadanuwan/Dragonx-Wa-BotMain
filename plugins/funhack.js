@@ -41,7 +41,7 @@ host: drive.google.com
 *ʜᴀᴄᴋᴇᴅ ʙʏ: ⎝🛡 ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ  🛡⎠ 😈*
 `
 
-DRAGONX.addrex({pattern: 'hack$', fromMe: WType, desc: HACK_DESC, deleteCommand: true}, (async (message, match) => {
+Trex.addrex({pattern: 'hack$', fromMe: WType, desc: HACK_DESC, deleteCommand: true}, (async (message, match) => {
 
 var thumb = await axios.get("https://telegra.ph/file/dfa0564731ced96dc2b73.jpg", {responseType: "arraybuffer"});
 
