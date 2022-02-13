@@ -3,7 +3,7 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-T-REX janith
+T-REX HIRUWA
 */
 
 const {MessageType, GroupSettingChange, ChatModification, WAConnectionTest} = require('@adiwajshing/baileys');
@@ -1588,9 +1588,9 @@ Trex.addrex({pattern: 'unmute ?(.*)', fromMe: true,  deleteCommand: false,  only
 
 Trex.addrex({pattern: 'clear', fromMe: true,  deleteCommand: false,  desc: Lang.END, dontAddCommandList: true}, (async (message, match) => {
 
-    await message.sendMessage('```🖲️  ➢ Chat clearing...```');
+    await message.sendMessage('```🔰 ➢ Chat clearing...```');
     await message.client.modifyChat (message.jid, ChatModification.delete);
-    await message.sendMessage('```🖲️  ➢ All Chat cleared```');
+    await message.sendMessage('```🔰 ➢ All Chat cleared```');
 }));
 
 Trex.addrex({pattern: 'gname ?(.*)', onlyGroup: true, fromMe: true,  deleteCommand: false,  dontAddCommandList: true}, (async (message, match) => {
@@ -1616,7 +1616,7 @@ Trex.addrex({pattern: 'search ?(.*)', fromMe: true,  deleteCommand: false,  desc
     const url = `https://gist.github.com/DARKCRIME1/e59aa70790d6238bf88a2aed62357ff9/raw`;
         const response = await got(url);
         const json = JSON.parse(response.body);
-        if (response.statusCode === 200) return await message.client.sendMessage(message.jid, '*🍁 T Rex BOT supported plugins 🍁*\n\nYou can install these plugins by *.plug _<plugin_link>_*\nExample : .plug https://gist.github.com/BlackAmda/a06509cf406c3eb172e5173900d0ef87\n\n' + json.sinhala, MessageType.text);
+        if (response.statusCode === 200) return await message.client.sendMessage(message.jid, '*🔰 T Rex BOT supported plugins 🔰*\n\nYou can install these plugins by *.plug _<plugin_link>_*\nExample : .plug https://gist.github.com/BlackAmda/a06509cf406c3eb172e5173900d0ef87\n\n' + json.sinhala, MessageType.text);
 });*/
 
 module.exports = {
