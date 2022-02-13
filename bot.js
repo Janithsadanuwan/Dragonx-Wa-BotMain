@@ -70,7 +70,7 @@ async function Trex () {
     conn.version = [3,2147,14];
     const Session = new StringSession();
     
-    conn.browserDescription = ["DragonX", "Safari", '1.0.0']
+    conn.browserDescription = ["Dragon X", "Safari", '1.0.0']
 
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
