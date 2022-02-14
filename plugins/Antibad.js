@@ -355,6 +355,7 @@ Trex.addrex({on: 'text', fromMe: false,  deleteCommand: false}, (async (message,
         let getword326bad = new RegExp('Vulva')
         let getword327bad = new RegExp('penis')
         let getword328bad = new RegExp('paka')
+        let getword329bad = new RegExp('jale')
         /*let getword329bad = new RegExp('.com')
         let getword330bad = new RegExp('http')
         let getword331bad = new RegExp('http://')
