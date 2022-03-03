@@ -387,7 +387,7 @@
         },
         "carbon": {
             "CARBON_DESC": "ඔබ mention කරන text එක carbon.sh මඟින් carbon image කරයි.",
-            "CARBON_NEEDWORD": "*Not enough arguments to translate Text-to-Image!*\nExample: ```.carbon test```\nExample: ```.carbon Trex#hiruwa```",
+            "CARBON_NEEDWORD": "*Not enough arguments to translate Text-to-Image!*\nExample: ```.carbon test```\nExample: ```.carbon janith```",
             "CARBON_WARN": "කරුණාකර english අක්ෂර පමණක් ටයිප් කරන්න!",
             "NEED_WORD": "*ඔබ වචන mention කළ යුතුය*"
         },
@@ -454,7 +454,7 @@
             "HL_COUNT":"➢ Highlight story ගණන"
         },
         "github": {
-            "GİTHUB_DESC": "දී ඇති පරිශීලක නාමයෙන් github තොරතුරු රැස් කරයි.\n⌨️ Example: .github TRex",
+            "GİTHUB_DESC": "දී ඇති පරිශීලක නාමයෙන් github තොරතුරු රැස් කරයි.\n⌨️ Example: .github Dragonx",
             "REPLY": "```ඔබට ඕනෑම username ටයිප් කිරීමට අවශ්‍යයි!```",
             "NOT": "```🔰 User not found!```",
             "FOLLOWERS": "➢ Followers:",
@@ -509,7 +509,7 @@
             "BP_DESC": "Black pink සංගීත කණ්ඩායමේ පින්තුර ලබා දෙයි."
         },
         "tiktok":{
-            "TK_DESC": "දී ඇති usrname යෙන් tiktok තොරතුරු රැස් කරයි.\n⌨️ Example: .tiktokp _hiruwa66_",
+            "TK_DESC": "දී ඇති usrname යෙන් tiktok තොරතුරු රැස් කරයි.\n⌨️ Example: .tiktokp janith_sadanuwan",
             "REPLY": "```ඔබට ඕනෑම username ටයිප් කිරීමට අවශ්‍යයි!```",
             "USERNAME": "🔰 Username :",
             "NAME": "🔰 Nickname :",
