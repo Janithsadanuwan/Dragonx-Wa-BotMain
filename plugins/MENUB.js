@@ -555,9 +555,8 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid9"},
         {title: '⎝🛡️ABOUT Dragon X BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 🔰 Developer : Janith
-🔰 Bot             : ⎝🛡️ Dragon X 🛡️⎠ WhatsApp User Bot v4.0.0
+🔰 Bot             : ⎝🛡️ Dragon X 🛡️⎠ WhatsApp User Bot v1.0.0
 🔰 Language : Sinhala & English
-🔰 Sponcer Team : PEARL TEAM SRI LANKA
 🔰 Develop language : Node js
 🔰 Developer no : http://wa.me/+94788175828
 `, rowId:"rowid2"}
@@ -1120,9 +1119,8 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid9"},
         {title: '⎝🛡️ABOUT Dragon X BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 🔰 Developer : Janith
-🔰 Bot             : ⎝🛡️ Dragon X 🛡️⎠ WhatsApp User Bot v4.0.0
+🔰 Bot             : ⎝🛡️ Dragon X 🛡️⎠ WhatsApp User Bot v1.0.0
 🔰 Language : Sinhala & English
-🔰 Sponcer Team : PEARL TEAM SRI LANKA
 🔰 Develop language : Node js
 🔰 Developer no : http://wa.me/+94788175828
 `, rowId:"rowid2"}
