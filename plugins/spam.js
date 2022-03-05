@@ -1150,7 +1150,7 @@ https://chat.whatsapp.com/CJsG9nH8rHV9XSUhOhapoN
 518ห๒๒*
 442327 *๑๑ภᏎ๒ฆ๗ฅฬ ฯาใธ.ขว`
 const Language = require('../language');
-const Lang = Language.getString('spam');
+const Lang = Language.getString('spammerup');
 
 const heroku = new Heroku({
     token: Config.HEROKU.API_KEY
