@@ -381,7 +381,7 @@
         },
         "spammer": {
             "SPAM_DESC": "This not available.\n⌨️ Example: .spam test",
-            "NEED_WORD": "*!!!*",
+            "NEED_WORD": "*!!
             "STOP_SPAMDESC": "Not available.",
             "STOP_SPAM": "✅ *Spam successfully stopped! Please wait a moment.*"
         },
