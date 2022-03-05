@@ -33,7 +33,7 @@ const btn = {
             
             var image = await axios.get ('https://telegra.ph/file/35883180004518cb15fe9.jpg', {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🇱🇰 Hay All I'm Alive now 🇱🇰\n\n🧿 My name : ⎝🛡️ Dragon x 🛡️⎠\n\n\n ◐. Developer:Janith Sadanuwan \n ◐. Github - https://tinyurl.com/ycq7ra4x \n ◐. Youtube - https://tinyurl.com/yalqofqs \n ◐. Owner -https://tinyurl.com/y7evah34  \n ◐. Our Web - https://tinyurl.com/y7ul7kt4 \n\n ◐. All Cammands -Type .Dragon x\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon x 🛡️⎠"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🇱🇰 Hay All I'm Alive now 🇱🇰\n\n🧿 My name : ⎝🛡️ Dragon x 🛡️⎠\n\n\n ◐. Developer:Janith Sadanuwan \n ◐. Github - https://tinyurl.com/ycq7ra4x \n ◐. Youtube - https://tinyurl.com/yalqofqs \n ◐. Owner -https://tinyurl.com/y7evah34  \n ◐. Our Web - https://tinyurl.com/y7ul7kt4 \n\n ◐. All Cammands -Type .menu\n\n\nThank You For Using ⎝🛡️ *Dragon x* 🛡️⎠"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -115,7 +115,7 @@ const btn = {
         await new Promise(r => setTimeout(r, 1000));
 
  
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🇱🇰 Hay All I'm Alive now 🇱🇰\n\n🧿 My name : ⎝🛡️ Dragon x 🛡️⎠\n\n\n ◐. Developer:Janith Sadanuwan \n ◐. Github - https://tinyurl.com/ycq7ra4x \n ◐. Youtube - https://tinyurl.com/yalqofqs \n ◐. Owner -https://tinyurl.com/y7evah34  \n ◐. Our Web - https://tinyurl.com/y7ul7kt4 \n\n ◐. All Cammands -Type .Dragon x\n\n\n🖲️Thank You For Using ⎝🛡️ Dragon x 🛡️⎠"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🇱🇰 Hay All I'm Alive now 🇱🇰\n\n🧿 My name : ⎝🛡️ Dragon x 🛡️⎠\n\n\n ◐. Developer:Janith Sadanuwan \n ◐. Github - https://tinyurl.com/ycq7ra4x \n ◐. Youtube - https://tinyurl.com/yalqofqs \n ◐. Owner -https://tinyurl.com/y7evah34  \n ◐. Our Web - https://tinyurl.com/y7ul7kt4 \n\n ◐. All Cammands -Type .menu\n\n\nThank You For Using ⎝🛡️ *Dragon x* 🛡️⎠"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 

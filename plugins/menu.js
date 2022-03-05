@@ -235,7 +235,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 ➢ Description: °A plugin that have 25 media tools.°
 🔰 Command: °.admin°
 ➢ Description: °To get the admin command list°
-🔰 Command: °.Dragon X°
+🔰 Command: °.menu°
 ➢ Description:°all commands°
 🔰 Command: °.lovepack°
 ➢ Description: °Send Love message to gf/bf.°
@@ -605,7 +605,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🔰  BOT  🔰 
  │        ──────────
  │
- │▷ .Dragon X
+ │▷ .menu
  │▷ .alive
  │▷ .admin [ for owner ]
  │▷ .version
@@ -783,7 +783,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 ➢ Description: °A plugin that have 25 media tools.°
 🔰 Command: °.admin°
 ➢ Description: °To get the admin command list°
-🔰 Command: °.Dragon X°
+🔰 Command: °.menu°
 ➢ Description:°all commands°
 🔰 Command: °.lovepack°
 ➢ Description: °Send Love message to gf/bf.°

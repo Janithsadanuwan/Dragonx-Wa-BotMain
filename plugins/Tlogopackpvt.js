@@ -24,31 +24,31 @@ if (Config.WORKTYPE == 'private') {
 ║
 ╠═➢ 🍁Cmd: *.wel*
 ╠══➢ 📛 Dec: *Send welcome logo*
-╠═➢ 🍁 Ex: *.wel T-Rex/Hiruwa*
+╠═➢ 🍁 Ex: *.welDragon X/Hiruwa*
 ║
 ╠═➢ 🍁 Cmd: *.bye*
 ╠══➢ 📛 Dec: *Send bye logo*
-╠═➢ 🍁Ex: *.bye T-REX/Hiruwa*
+╠═➢ 🍁Ex: *.byeDragon X/Hiruwa*
 ║
 ╠═➢ 🍁Cmd: *.marvel*
 ╠══➢ 📛 Dec: *Send marve logo*
-╠═➢ 🍁 Ex: *.marvel T-Rex/Hiruwa*
+╠═➢ 🍁 Ex: *.marvelDragon X/Hiruwa*
 ║
 ╠═➢ 🍁Cmd: *.2marvel*
 ╠══➢ 📛 Dec: *Send marvel logo*
-╠═➢ 🍁Ex: *.2marvel T-Rex/Hiruwa*
+╠═➢ 🍁Ex: *.2marvelDragon X/Hiruwa*
 ║
 ╠═➢ 🍁Cmd: *.wolf*
 ╠══➢ 📛 Dec: *Send wolf logo*
-╠═➢ 🍁Ex: *.wolf T-REX/HIRUWA*
+╠═➢ 🍁Ex: *.wolfDragon X/HIRUWA*
 ║
 ╠═➢ 🍁Cmd: *.lava*
 ╠══➢ 📛 Dec: *Send lava logo*
-╠═➢ 🍁Ex: *.lava T-REX*
+╠═➢ 🍁Ex: *.lavaDragon X*
 ║
 ╠═➢ 🍁Cmd: *.xmas*
 ╠══➢ 📛 Dec: *Send xmas logo*
-╠═➢ 🍁Ex: *.xmas T-Rex*
+╠═➢ 🍁Ex: *.xmasDragon X*
 ║
 ╠═➢ 🍁Cmd: *.round*
 ╠══➢📛 Dec: *Send round logo*
@@ -56,57 +56,57 @@ if (Config.WORKTYPE == 'private') {
 ║
 ╠═➢ 🍁Cmd: .*.quot*
 ╠══➢ 📛  Dec: *Send quote logo*
-╠═➢ 🍁 Ex: *.quot T-REX*
+╠═➢ 🍁 Ex: *.quotDragon X*
 ║
 ╠═➢ 🍁Cmd: *.harta*
 ╠══➢ 📛 Dec: *Send harta logo*
-╠═➢ 🍁Ex: *.harta T-REX
+╠═➢ 🍁Ex: *.hartaDragon X
 ║
 ╠═➢ 🍁Cmd: *.1917*
 ╠══➢ 📛 Dec: *Send 1917 logo*
-╠═➢ 🍁Ex: *.1917 T-REX
+╠═➢ 🍁Ex: *.1917Dragon X
 ║
 ╠═➢ 🍁Cmd: *.minion*
 ╠══➢ 📛 Dec: *Send minion logo*
-╠═➢ 🍁Ex: *.minion T-REX
+╠═➢ 🍁Ex: *.minionDragon X
 ║
 ╠═➢ 🍁Cmd: *.holo*
 ╠══➢ 📛  Dec: *Send holo logo*
-╠═➢ 🍁 Ex: *.holo T-REX*
+╠═➢ 🍁 Ex: *.holoDragon X*
 ║
 ╠═➢ 🍁Cmd: *.metalp*
 ╠══➢ 📛  Dec: *Send metalp logo*
-╠═➢ 🍁 Ex: *.metalp T-REX*
+╠═➢ 🍁 Ex: *.metalpDragon X*
 ║
 ╠═➢ 🍁Cmd: *.avengers*
 ╠══➢ 📛  Dec: *Send avengers logo*
-╠═➢ 🍁 Ex: *.avengers T-REX*
+╠═➢ 🍁 Ex: *.avengersDragon X*
 ║
 ╠═➢ 🍁Cmd: *.halloween*
 ╠══➢ 📛  Dec: *Send halloween logo*
-╠═➢ 🍁 Ex: *.halloween T-REX
+╠═➢ 🍁 Ex: *.halloweenDragon X
 ║
 ╠═➢ 🍁Cmd: *.horror*
 ╠══➢ 📛  Dec: *Send horror logo*
-╠═➢ 🍁 Ex: *.horror T-REX*
+╠═➢ 🍁 Ex: *.horrorDragon X*
 ║
 ╠═➢ 🍁Cmd: *.glossyc*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyc T-REX*
+╠═➢ 🍁 Ex: *.glossycDragon X*
 ║
 ╠═➢ 🍁Cmd: *.deluxe*
 ╠══➢ 📛  Dec: *Send deluxe logo*
-╠═➢ 🍁 Ex: *.deluxe T-REX*
+╠═➢ 🍁 Ex: *.deluxeDragon X*
 ║
 ╠═➢ 🍁Cmd: *.glossyb*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyb T-REX*
+╠═➢ 🍁 Ex: *.glossybDragon X*
 ║
 ╠═➢ 🍁Cmd: *.joker*
 ╠══➢ 📛  Dec: *Send joker logo*
-╠═➢ 🍁 Ex: *.joker T-REX*
+╠═➢ 🍁 Ex: *.jokerDragon X*
 ║
-║      ╔═🍁 T-REX BOT 🍁═╗
+║      ╔═🍁Dragon X BOT 🍁═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════`,quoted: message.data})
 
