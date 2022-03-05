@@ -24,23 +24,23 @@ if (Config.WORKTYPE == 'private') {
 ║
 ╠═➢ 🍁Cmd: *.wel*
 ╠══➢ 📛 Dec: *Send welcome logo*
-╠═➢ 🍁 Ex: *.welDragon X/Hiruwa*
+╠═➢ 🍁 Ex: *.welDragon X/Janith*
 ║
 ╠═➢ 🍁 Cmd: *.bye*
 ╠══➢ 📛 Dec: *Send bye logo*
-╠═➢ 🍁Ex: *.byeDragon X/Hiruwa*
+╠═➢ 🍁Ex: *.byeDragon X/Janith*
 ║
 ╠═➢ 🍁Cmd: *.marvel*
 ╠══➢ 📛 Dec: *Send marve logo*
-╠═➢ 🍁 Ex: *.marvelDragon X/Hiruwa*
+╠═➢ 🍁 Ex: *.marvelDragon X/Janith*
 ║
 ╠═➢ 🍁Cmd: *.2marvel*
 ╠══➢ 📛 Dec: *Send marvel logo*
-╠═➢ 🍁Ex: *.2marvelDragon X/Hiruwa*
+╠═➢ 🍁Ex: *.2marvelDragon X/Janith*
 ║
 ╠═➢ 🍁Cmd: *.wolf*
 ╠══➢ 📛 Dec: *Send wolf logo*
-╠═➢ 🍁Ex: *.wolfDragon X/HIRUWA*
+╠═➢ 🍁Ex: *.wolfDragon X/Janith*
 ║
 ╠═➢ 🍁Cmd: *.lava*
 ╠══➢ 📛 Dec: *Send lava logo*
