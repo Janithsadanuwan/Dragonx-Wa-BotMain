@@ -4,13 +4,13 @@ Licensed under the  GPL-3.0 License;
 */
 
 function successfullMessage(msg) {
-    return "🎅❄️ T-REX*:  ```" + msg + "```"
+    return "Dragon x*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "☃️❄️ T-REX*:  ```" + msg + "```"
+    return "Dragon x*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "🎅❄️ T-REX*:  ```" + msg + "```"
+    return "Dragon x*:  ```" + msg + "```"
 }
 
 
